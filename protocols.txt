@@ -1,0 +1,2024 @@
+###PROTOCOL 1
+INTRODUCTION
+- The Regional Unified Protocols of New York City include the statewide Basic Life Support Adult and Pediatric Treatment Protocols as the current minimal standards for basic life support (BLS) delivered by Certified First Responders (CFR), and Emergency Medical Technicians (EMT) in New York State.
+Paramedic (advanced life support [ALS]) protocols have been included in the unified format to ensure a continuous transition of care from CFR through ALS
+- Each level provider shall start from the beginning of any given protocol and complete the treatments in the order listed while using good clinical judgment. The order of treatments may require modification based on the patient’s clinical condition. When there are multiple providers, some treatments may be administered simultaneously
+- Standing orders for each provider level follows a colored header with a STOP indicating the end of the respective treatments and procedures for that provider level
+- Definitions of each section are described below
+CFR and All Provider Levels
+1. Standing order treatments start in this section and applies to CFRs and all provider levels
+CFR STOP
+EMT
+2. EMT and Paramedic standing orders continue in this section after performing the treatments in the CFR and all provider levels section listed above
+EMT STOP
+Paramedic
+3. Paramedic standing orders continue in this section after performing the treatments in the CFR and all providers level and EMT sections listed above
+Paramedic STOP
+Medical Control Options
+4. Treatments and procedures listed in this section may only be administered or performed after contacting online medical control (OLMC). Aside from a few exceptions which are explicitly listed, these treatments and procedures are only within the Paramedic scope of practice
+Key Points / Considerations
+- This section applies to all provider levels and contains additional guidance and information pertinent to the protocol
+###ENDPROTOCOL
+
+###PROTOCOL 2
+Non-Traumatic Cardiac Arrest (Adult)
+CFR and All Provider Levels
+1. Begin CPR as per AHA guidelines
+2. Turn on the Automated External Defibrillator (AED)
+3. Apply the AED pads to the patient’s bare chest with minimal interruption of chest compressions
+4. Connect AED pads and follow the AED voice prompts
+5. Continue CPR, re-analyze every two (2) minutes and shock as indicated
+CFR STOP
+EMT
+6. Request ALS assistance
+7. Continue CPR and AED analysis with minimal interruption of chest compressions
+8. Transport after a total of three (3) cycles of CPR and AED analysis
+EMT STOP
+Paramedic
+9. Continue CPR and defibrillation cycles with minimal interruption of chest compressions
+10. If an AED is in place, transition from the AED to an ALS monitor after AED analysis and begin cardiac monitoring. Use the maximum joule setting possible when defibrillating
+11. Perform needle decompression for a suspected tension pneumothorax (Appendix M: Needle Decompression of Tension Pneumothorax) as needed
+12. Obtain intravascular access
+13. Administer Epinephrine 1 mg IV (10 ml of a 1:10,000 concentration). Repeat every 3-5 minutes until patient achieves return of spontaneous circulation (ROSC)
+14. Perform advanced airway management after second rhythm analysis
+15. Obtain blood glucose level and treat as needed
+16. If the rhythm is ventricular fibrillation/pulseless ventricular tachycardia, administer one of the following:
+  - OPTION A: Amiodarone 300 mg IV
+  - OPTION B: Lidocaine 100 mg IV
+17. If on scene and after 20 minutes of ALS treatment, consider contacting OLMC for medical control options if indicated, or for termination of resuscitation
+Paramedic STOP
+
+Medical Control Options
+18. For suspected tricyclic antidepressant overdose, salicylate toxicity, or hyperkalemia, administer Sodium Bicarbonate 44-88 mEq IV. Repeat Sodium Bicarbonate 44 mEq IV as needed every 10 minutes
+19. For suspected hyperkalemia or calcium channel blocker overdose, administer Calcium Chloride 1 g IV slowly followed with a crystalloid fluid flush
+20. Administer crystalloid fluids 20 ml/kg IV (maximum 2 L)
+21. For persistent or recurring ventricular fibrillation or pulseless ventricular tachycardia, administer one of the following:
+    - OPTION A: Amiodarone 150 mg IV
+    - OPTION B: Lidocaine 50 mg IV
+    - OPTION C: Magnesium Sulfate 2 g IV diluted in 10 ml Normal Saline over 2 minutes
+Key Points / Considerations
+- Do not interrupt compressions for placement of an advanced airway
+- Minimize interruption in compressions for placement of a mechanical CPR device
+- Do not delay compressions to begin ventilations
+- Do not delay ventilations to connect supplemental oxygen
+- An AED should be placed as soon as possible without interrupting compressions
+- Artifact from vibrations in a moving ambulance may compromise the effectiveness of an AED
+- Maximum joule setting may vary depending on the defibrillator used
+- Consider the possibility of conditions with reversible causes masquerading as PEA/asystole that require immediate treatment
+- Routine use of Calcium Chloride and/or Sodium Bicarbonate in cardiac arrest has not been shown to improve outcomes
+- Calcium Chloride and Sodium Bicarbonate should be given in separate IV lines or separated by a flush of at least 20 ml of crystalloid fluid to prevent precipitation
+- As per AHA, the benefit of double sequential defibrillation for refractory shockable rhythms has not been established
+###ENDPROTOCOL
+
+###PROTOCOL 4
+Non-Traumatic Cardiac Arrest (Pediatric)
+CFR and All Provider Levels
+1. Begin CPR as per AHA guidelines
+2. Turn on the Automated External Defibrillator (AED)
+3. Apply appropriately-sized AED pads to the patient’s bare chest with minimal interruption of chest compressions
+4. Connect AED pads and follow the AED voice prompts
+5. Continue CPR, re-analyze every two (2) minutes and shock as indicated
+CFR STOP
+EMT
+6. Request ALS assistance
+7. Continue CPR and AED analysis with minimal interruption of chest compressions
+8. Transport after a total of three (3) cycles of CPR and AED analysis
+EMT STOP
+Paramedic
+9. Continue CPR and defibrillation cycles with minimal interruption of chest compressions
+10. If an AED is in place, transition from the AED to an ALS monitor after AED analysis and begin cardiac monitoring
+11. Obtain intravascular access
+12. Administer Epinephrine 0.01 mg/kg IV (maximum 1 mg) (0.1 ml/kg of a 1:10,000 concentration). Repeat every 3-5 minutes until patient achieves return of spontaneous circulation (ROSC)
+13. Perform advanced airway management after second rhythm analysis only if unable to provide effective bag valve mask ventilations
+14. If the rhythm is ventricular fibrillation/pulseless ventricular tachycardia:
+14.1. Defibrillate with the following energy settings using appropriately-sized AED/monitor pads:
+    - Initial defibrillation: 2 joules/kg
+    - Second defibrillation as needed: 4 joules/kg
+    - Subsequent defibrillations as needed: 10 joules/kg
+14.2. Administer one of the following medications:
+    - OPTION A: Amiodarone 5 mg/kg IV (maximum 300 mg)
+    - OPTION B: Lidocaine 1 mg/kg IV (maximum 100 mg)
+15. Obtain blood glucose level (BGL). If BGL < 60 mg/dl, administer Dextrose 0.5 g/kg IV (maximum 25 g)
+16. Administer crystalloid fluids 20 ml/kg IV (maximum 2 L)
+Paramedic STOP
+
+Medical Control Options
+17. For suspected tricyclic antidepressant overdose, salicylate toxicity, or hyperkalemia, administer Sodium Bicarbonate 1 mEq/kg IV (maximum 44 mEq). Repeat as needed every 10 minutes
+18. For suspected hyperkalemia or calcium channel blocker overdose, administer Calcium Chloride 20 mg/kg IV (maximum 1 g) slowly, followed with a crystalloid fluid flush
+19. Administer crystalloid fluids 20 ml/kg IV (maximum 2 L)
+20. For persistent or recurring ventricular fibrillation or pulseless ventricular tachycardia, administer one of the following:
+    - OPTION A: Amiodarone 5 mg/kg IV (maximum 150 mg). Repeat as needed (maximum cumulative 3 doses, maximum cumulative 450 mg)
+    - OPTION B: Magnesium Sulfate 25-50 mg/kg IV (maximum 2 g)
+Key Points / Considerations
+- Defibrillation should not be delayed or withheld for any reason
+- If the cardiac monitor is unable to deliver the desired weight-based joule setting, use the closest setting without exceeding the desired setting
+- Do not interrupt chest compressions for placement of an advanced airway
+- Effective bag valve mask ventilation is a reasonable alternative to advanced airway interventions (endotracheal intubation or use of a supraglottic airway) in the management of pediatric cardiac arrests in the out-of-hospital setting
+- Utilize a PEEP valve, if available, when performing assisted ventilations
+- 10% Dextrose is strongly preferred for patients with age ≤ 1 month; 5% Dextrose may be used if 10% Dextrose is unavailable. For patients with age between 1 month – 14 years, 5% Dextrose, 10% Dextrose or 25% Dextrose may be used
+- Magnesium Sulfate must be diluted prior to administration. An example method uses Magnesium Sulfate 2 g diluted in 50 ml Normal Saline (final concentration 40 mg/ml). Agitate the solution prior to withdrawing the desired volume
+- If the provider is uncertain whether a patient should be treated under adult or pediatric cardiac arrest protocols, begin CPR and consult OLMC
+###ENDPROTOCOL
+
+###PROTOCOL 6
+Severe Bradycardia (Pediatric)
+CRITERIA
+- This protocol is for pediatric patients who have severe bradycardia that is defined as having ALL of the following:
+  - Heart rate < 60 beats/min
+  - Signs of shock OR altered mental status
+CFR and All Provider Levels
+1. Ventilate for one (1) minute
+2. If the heart rate < 60 beats/min, begin chest compressions and ventilations as per AHA guidelines
+3. Check for a pulse every two (2) minutes and perform the following:
+  - Heart rate ≥ 60 beats/min AND patient is NOT breathing adequately, assist ventilations at a rate of 20 breaths/min using a bag valve mask and oxygen. Check for a pulse every one (1) minute
+  - Heart rate ≥ 60 beats/min AND patient is adequately breathing (age-appropriate respiratory rate and tidal volume), administer oxygen via non-rebreather mask
+CFR STOP
+EMT
+4. Request ALS assistance
+5. Transport
+EMT STOP
+Paramedic
+5. Begin cardiac monitoring
+6. Obtain intravascular access
+7. Administer Epinephrine 0.01 mg/kg IV (maximum 1 mg) (0.1 ml/kg of a 1:10,000 concentration). Repeat as needed every 3-5 minutes
+8. If severe bradycardia is caused by an increase in vagal tone or a primary AV block, administer Atropine 0.02 mg/kg IV (minimum 0.1 mg; maximum 0.5 mg)
+9. Perform advanced airway management only if unable to provide effective bag valve mask ventilations
+Paramedic STOP
+Medical Control Options
+10. Administer Atropine 0.02 mg/kg IV (minimum 0.1 mg; maximum 0.5 mg)
+11. Begin transcutaneous pacing
+
+Key Points / Considerations
+- Utilize a PEEP valve, if available, when performing assisted ventilations
+- Consider contacting OLMC for procedural sedation prior to any electrical therapy for conscious patients
+- Evaluate for evidence of ingestions (i.e. beta-blockers, calcium-channel blockers) and treat in accordance to respective protocols
+###ENDPROTOCOL
+
+###PROTOCOL 8
+Obstructed Airway (Adult and Pediatric)
+CFR and All Provider Levels
+1. If the patient is conscious and can breathe, cough, speak, or cry; encourage the patient to cough
+2. If the patient is unconscious or cannot breathe, cough, speak, or cry; perform airway maneuvers or CPR, as per current AHA guidelines
+3. ABCs and vital signs
+4. Airway management and appropriate oxygen therapy
+CFR STOP
+EMT
+5. Request ALS assistance
+6. Transport
+7. Perform obstructed airway maneuvers enroute to the hospital as needed
+EMT STOP
+Paramedic
+8. Perform direct laryngoscopy and attempt to remove the foreign body with Magill forceps
+9. Perform advanced airway management as needed
+10. If intubation is confirmed with direct visualization, but unable to ventilate:
+10.1. Note the depth of the endotracheal tube
+10.2. Deflate the endotracheal tube cuff, if using a cuffed tube
+10.3. Advance the endotracheal tube to its deepest depth
+10.4. Return the endotracheal tube to its originally noted depth
+10.5. Re-inflate the endotracheal tube cuff, if using a cuffed tube, and attempt ventilations
+10.6. If unable to effectively ventilate the patient using the above maneuvers, immediately initiate transport
+Paramedic STOP
+Medical Control Options
+Key Points / Considerations
+###ENDPROTOCOL
+
+###PROTOCOL 9
+Respiratory Distress / Respiratory Failure (Adult)
+CRITERIA
+- This protocol is for patients who have respiratory distress or respiratory failure from an unclear etiology or who have persistent respiratory distress or respiratory failure despite treatment under other existing protocols
+- Patients with respiratory distress or respiratory failure due to specific reasons (e.g. obstructed airway, anaphylaxis/severe allergic reaction) should be treated accordingly
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Use airway adjuncts as needed and administer oxygen as follows:
+  - For respiratory distress, administer oxygen and allow the patient to maintain a position of comfort
+  - For respiratory failure, assist ventilations at a rate of 10 breaths/min with supplemental oxygen
+3. Assess and treat for an overdose as needed
+CFR STOP
+EMT
+4. Request ALS assistance
+5. For patients with persistent respiratory distress, begin continuous positive airway pressure (CPAP) therapy (Appendix N: Continuous Positive Airway Pressure Therapy), if available
+6. Transport
+EMT STOP
+Paramedic
+7. Perform advanced airway management as needed
+8. Assess and treat for a tension pneumothorax as needed (Appendix M: Needle Decompression of a Tension Pneumothorax)
+9. Begin cardiac monitoring
+10. Perform, record and evaluate EKG rhythm
+11. Obtain intravascular access
+12. For patients with suspected acute cardiogenic pulmonary edema AND who have a SBP > 120 mmHg, administer Nitroglycerin 0.4 mg SL/IV. Repeat every 5 minutes as needed
+13. Monitor vital signs every 2-3 minutes
+Paramedic STOP
+Medical Control Options
+14. Administer Furosemide 20-80 mg IV
+
+Key Points / Considerations
+- All patients who are in respiratory arrest must receive ventilatory assistance unless a valid New York State Prehospital DNR Order and/or MOLST/eMOLST form is presented to the crew
+- Patients who require supplemental oxygen should receive high concentration oxygen via a non- rebreather mask set at 10-15 liters/min:
+  - If a mask is not tolerated by the patient, a nasal cannula set at 6 liters/minute should be used and properly documented
+  - There is no reason to withhold high concentration oxygen when required in adult or pediatric patients
+  - Patients who are chronically maintained on oxygen and who do not require high concentration oxygen shall be administered oxygen at their prescribed flowrate
+- Monitor breathing continuously and assess for signs of hypoxia and/or increasing respiratory distress
+- Nitroglycerin shall not be administered to patients who have used erectile dysfunction medications within the past 72 hours, unless otherwise directed by OLMC
+###ENDPROTOCOL
+
+###PROTOCOL 11
+Respiratory Distress / Respiratory Failure (Pediatric)
+CRITERIA
+- This protocol is for patients who have respiratory distress or respiratory failure from an unclear etiology or who have persistent respiratory distress or respiratory failure despite treatment under other existing protocols
+- Patients with respiratory distress or respiratory failure due to specific reasons (e.g. obstructed airway, anaphylaxis/severe allergic reaction) should be treated accordingly
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Use airway adjuncts as needed and administer oxygen as follows:
+  - For respiratory distress, administer oxygen and allow the patient to maintain a position of comfort
+  - For respiratory failure, assist ventilations at a rate of 20-30 breaths/min with supplemental oxygen
+3. Assess and treat for an overdose as needed
+CFR STOP
+EMT
+4. Request ALS assistance
+5. Transport
+EMT STOP
+Paramedic
+6. Perform advanced airway management if unable to provide effective bag valve mask ventilations
+7. Assess and treat for a tension pneumothorax as needed (Appendix M: Needle Decompression of a Tension Pneumothorax)
+8. Begin cardiac monitoring
+9. Obtain intravascular access as needed
+Paramedic STOP
+Medical Control Options
+
+Key Points / Considerations
+- Respiratory distress is characterized by increased respiratory effort (work of breathing) WITHOUT central cyanosis, including anxiety, nasal flaring, elevated respiratory rate, use of accessory muscles of respiration (e.g. retractions)
+- Respiratory failure is characterized by:
+  - Ineffective respiratory effort and symptoms of respiratory distress WITH central cyanosis, including agitation, lethargy, severe dyspnea, labored breathing, head bobbing, grunting, or significant suprasternal, substernal, intercostal and/or parasternal retractions, bradypnea leading to ineffective oxygenation or ventilation
+  - Presence of hypoxia and/or hypercapnia
+- Monitor breathing continuously and assess for signs of hypoxia and/or increasing respiratory distress
+- Bradycardia is an ominous sign that indicates hypoxic cardiac arrest may be imminent
+- High concentration oxygen should always be used in pediatric patients
+- Do not allow the mask to press against the eyes
+- Chest rise is the best indication of adequate ventilation in pediatric patients
+- Do not overinflate the lungs when assisting ventilations
+- Do not hyperextend the neck
+- Blow-by oxygen is an inadequate method of oxygenation. Use the closest age or size- appropriate oxygen delivery mechanism (e.g. nasal cannula, facemask, bag valve mask)
+- Effective bag valve mask ventilation is a reasonable alternative to advanced airway interventions (endotracheal intubation or use of a supraglottic airway) in the management of pediatric patients with severe respiratory distress or respiratory failure
+- Utilize a PEEP valve, if available, when performing assisted ventilations
+- For the tachypneic child with abnormal respirations, consider a glucose check to evaluate for hyperglycemia
+- Tension pneumothorax in a pediatric patient in respiratory arrest may develop after resuscitative efforts have begun
+###ENDPROTOCOL
+
+###PROTOCOL 13
+Altered Mental Status (Adult and Pediatric)
+CFR and All Provider Levels
+1. Assess the scene for potential or actual danger and establish a safe zone, if necessary
+2. ABCs and vital signs
+3. Airway management
+4. Administer oxygen
+5. Assess and treat for an overdose as needed
+CFR STOP
+EMT
+6. Request ALS assistance
+7. Obtain blood glucose level (BGL)
+8. If BGL < 60 mg/dl AND the patient is conscious AND able to drink without assistance, administer a glucose solution or other sugar containing beverage
+9. Transport
+EMT STOP
+Paramedic
+10. Obtain intravascular access
+11. For patients with a glucometer reading < 60 mg/dl, administer Dextrose OR Glucagon as follows. Repeat as needed if there is no change in symptoms or if symptoms fail to improve significantly:
+  - ADULT: Dextrose up to 25 g IV
+  - PEDIATRIC: Dextrose 0.5 g/kg IV (maximum 25 g)
+  - For ADULT and PEDIATRIC patients, administer Glucagon 1 mg IM/IN if intravascular access is unavailable
+Paramedic STOP
+Medical Control Options
+
+Key Points / Considerations
+- For pediatric patients, no more than 2 (two) attempts at obtaining intravascular access shall be made before administering Glucagon. Intranasal (IN) Glucagon is the preferred administration route
+- 10% Dextrose is strongly preferred for patients with age ≤ 1 month; 5% Dextrose may be used if 10% Dextrose is unavailable. For patients with age between 1 month – 14 years, 5% Dextrose, 10% Dextrose or 25% Dextrose may be used
+- Consider underlying causes of altered mental status (e.g. trauma, medical, behavioral) and treat appropriately
+- Do not administer oral solutions to unconscious patients or to patients with head injuries
+- Diabetic patients with a blood glucose level reading between 60-80 mg/dl may still be symptomatic secondary to hypoglycemia. In the presence of such signs and symptoms, treat accordingly
+###ENDPROTOCOL
+
+###PROTOCOL 15
+Anaphylaxis / Severe Allergic Reaction (Adult and Pediatric)
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management
+3. Administer oxygen
+4. If patient is suspected to have anaphylaxis, perform the following:
+  - Assist the patient with administration of their prescribed Epinephrine auto-injector IM
+  - If Epinephrine has not been prescribed, administer Epinephrine auto-injector IM according to age and/or weight, if available and trained to do so:
+    - Age < 9 years and weight < 30 kg: Pediatric Epinephrine (0.15 mg) auto-injector IM
+    - Age ≥ 9 years or weight ≥ 30 kg: Adult Epinephrine (0.3 mg) auto-injector IM
+5. Assess for respiratory distress/respiratory failure, shock, cardiac arrest and treat as needed
+CFR STOP
+EMT
+6. Request ALS assistance
+7. If patient has symptoms of anaphylaxis, administer Epinephrine as follows:
+  - Age < 9 years and weight < 30 kg:
+    - OPTION A: Epinephrine 0.15 mg IM via syringe
+    - OPTION B: Pediatric Epinephrine auto-injector IM
+  - Age ≥ 9 years or weight ≥ 30 kg:
+    - OPTION A: Epinephrine 0.3 mg IM via syringe
+    - OPTION B: Adult Epinephrine auto-injector IM
+8. Transport
+9. For continued symptoms after 3-5 minutes, administer a repeat dose of Epinephrine IM (maximum 2 doses, including Epinephrine dose that was administered by CFR)
+10. For wheezing, administer 0.083% Albuterol Sulfate 3 ml (1 unit dose) mixed with 0.02% Ipratropium Bromide 2.5 ml (1 unit dose) nebulized over 5-15 minutes. Repeat as needed (maximum 3 doses)
+EMT STOP
+Paramedic
+11. Perform advanced airway management as needed
+12. For patients with symptoms of anaphylaxis, administer Epinephrine 0.01 mg/kg IM (maximum 0.3 mg) of a 1:1,000 concentration. For continued symptoms after 3-5 minutes, repeat as needed [maximum 3 doses, including Epinephrine doses administered by BLS and/or CFR]
+13. For patients with signs of shock:
+13.2. Obtain intravascular access
+
+13.3. Administer crystalloid fluids 20 ml/kg IV (maximum 2 L)
+14. Administer one of the following:
+  - OPTION A: Dexamethasone 0.6 mg/kg IV/IM/PO (maximum 12 mg)
+  - OPTION B: Methylprednisolone 1 mg/kg IV/IM (maximum 60 mg)
+15. Administer Diphenhydramine 1 mg/kg IV/IM (maximum 50 mg)
+16. Administer 0.083% Albuterol Sulfate 3 ml (1 unit dose) nebulized over 5-15 minutes. Repeat as needed (maximum 3 doses)
+17. Begin cardiac monitoring
+Paramedic STOP
+Medical Control Options 
+{} EMT:
+18. Administer weight-appropriate dose of Epinephrine IM, if available as follows:
+  - Age < 9 years and weight < 30 kg:
+    - OPTION A: Epinephrine 0.15 mg IM via syringe, if available
+    - OPTION B: Pediatric Epinephrine auto-injector IM
+  - Age ≥ 9 years or weight ≥ 30 kg:
+    - OPTION A: Epinephrine 0.3 mg IM, if available
+    - OPTION B: Adult Epinephrine auto-injector IM
+19. Administer 0.083% Albuterol Sulfate 3 ml (1 unit dose) nebulized over 5-15 minutes 
+{} Paramedic:
+20. Administer Epinephrine 0.01 mg/kg IM (maximum 0.3 mg) of a 1:1,000 concentration
+21. Administer 0.083% Albuterol Sulfate 3 ml (1 unit dose) nebulized over 5-15 minutes
+22. Administer crystalloid fluids 20 ml/kg IV (maximum 2 L)
+Key Points / Considerations
+- Do not delay transport for any reason, including waiting for a potential second dose of Epinephrine
+- Anaphylaxis is considered as an allergic reaction with any of the following:
+  - Respiratory compromise (dyspnea, wheezing, stridor, hypoxemia)
+  - Signs of shock
+  - Two or more signs/symptoms from the following systems:
+    - Skin (urticaria, itchy skin)
+    - Mucosal (swollen tongue or lips)
+    - Gastrointestinal (vomiting, abdominal pain)
+  - History of anaphylaxis AND exposure to a known allergen AND one of the mucosal or gastrointestinal signs/symptoms listed above
+
+- Anaphylaxis can be a potentially life-threatening situation most often associated with a history of exposure to:
+  - Inciting agent/allergen (bee sting or other insect venom)
+  - Medication/drugs
+  - Food (i.e. peanuts, seafood)
+- IV formulation of Dexamethasone may be administered orally (PO)
+- Administration of steroids via IV shall be performed slowly over 2 minutes
+- Do not delay transport to the hospital
+- Under standing orders:
+  - CFR may administer one (1) dose of Epinephrine
+  - BLS may administer up to a total of two (2) doses of Epinephrine, including any doses that were administered by CFR
+  - ALS may administer up to a total of three (3) doses of Epinephrine, including any doses that were administered by CFR or BLS
+  - If first on scene, ALS shall administer the appropriate weight-based dose of Epinephrine as their first dose
+###ENDPROTOCOL
+
+###PROTOCOL 18
+Behavioral Emergencies (Adult and Pediatric)
+CFR and All Provider Levels
+1. Assess the scene for potential or actual danger and establish a safe zone, if needed
+2. Request law enforcement assistance if the patient presents a risk of physical harm to providers, public, or self
+3. If safe to do so, attempt to verbally de-escalate the patient’s condition
+4. Providers may participate in physically restraining a patient when it becomes necessary to protect the patient or others from harm. Providers shall only use:
+  - The minimal amount of force required to effectively restrain the patient and protect them (and others) from harm
+  - Soft restraints (such as towels, triangular bandages, or commercially available soft medical restraints) to restrain the patient to the stretcher
+5. Identify and treat any underlying medical or traumatic condition that may be causing agitation or hyperactive delirium
+6. Request ALS assistance if chemical restraint may be required
+7. ABCs and vital signs, if able to do so safely
+8. Airway management and appropriate oxygen therapy
+CFR STOP
+EMT
+9. Obtain blood glucose level and treat as needed, if able to do so safely
+10. Transport
+EMT STOP
+Paramedic
+11. For ADULT patients with Hyperactive Delirium AND continue to violently struggle despite being physically restrained AND are in danger of injuring themself or others, administer one of the following:
+  - OPTION A: Midazolam 0.2 mg/kg IM/IN (maximum 10 mg)
+  - OPTION B: Midazolam 0.2 mg/kg IV (maximum 5 mg)
+12. After adequate sedation:
+12.1. Obtain intravascular access
+12.2. Begin cardiac and pulse oximetry monitoring
+12.3. Begin non-invasive capnography monitoring, if available
+Paramedic STOP
+
+Medical Control Options
+12. For ADULT patients who are persistently agitated, administer one of the following:
+  - OPTION A: Ketamine 2-4 mg/kg IM (maximum 400 mg) OR Ketamine 1-2 mg/kg IN (maximum 200 mg)
+  - OPTION B: Midazolam 0.2 mg/kg IM/IN (maximum 10 mg) OR Midazolam 0.2 mg/kg IV (maximum 5 mg)
+  - OPTION C: Lorazepam 0.1 mg/kg IM (maximum 4 mg) OR Lorazepam 0.1 mg/kg IV/IN (maximum 2 mg)
+  - OPTION D: Diazepam 0.2 mg/kg IV/IN/IM (maximum 5 mg)
+13. For PEDIATRIC patients who are persistently agitated, administer one of the following medications:
+  - OPTION A: Ketamine 2-4 mg/kg IM (maximum 400 mg) OR Ketamine 1-2 mg/kg IN (maximum 200 mg)
+  - OPTION B: Midazolam 0.1 mg/kg IM/IN (maximum 5 mg) OR Midazolam 0.1 mg/kg IV (maximum 2 mg)
+  - OPTION C: Lorazepam 0.1 mg/kg IM (maximum 4 mg) OR Lorazepam 0.1 mg/kg IV/IN (maximum 2 mg)
+Key Points / Considerations
+- Chemical restraint is defined as the administration of a sedative or dissociative medication to prevent injury
+- Chemical restraint is intended for patients who are suffering from Hyperactive Delirium. This is a syndrome that includes psychomotor agitation (aggression, reduced sensitivity to pain, violent struggling), physiologic excitation (tachycardia, tachypnea, diaphoresis), and delirium
+- Medication for chemical restraint shall NOT be administered as a standing order if the patient is either:
+  - Agitated or non-compliant with requests or directions, but does not require physical restraint
+  - Physically restrained and not struggling against the restraints
+- The preferred route for standing order Midazolam administration is intramuscular due to the speed of administration. Intravenous administration should only be done if IV access has already been established
+- Agitated patients should be presumed to have an underlying medical or traumatic condition
+- Refer to heat emergencies protocol for concern of hyperthermia
+- All suicidal or violent threats or gestures must be taken seriously
+- Diabetic patients with a blood glucose level reading between 60-80 mg/dl may still be symptomatic secondary to hypoglycemia. In the presence of such signs and symptoms, treat accordingly
+
+- Patients must NOT be transported in a prone (face-down) position
+- If the patient is in police custody and/or has handcuffs on, a police officer must accompany the patient in the patient compartment of the ambulance to the hospital. The provider must have the ability to immediately remove any mechanical restraints that may hinder patient care at all times
+- It is preferrable for patients to have their handcuffs secured to the stretcher and NOT be handcuffed behind their back when on a stretcher
+- EMS providers are responsible for determining the need for chemical restraint. EMS providers may not be ordered to administer chemical restraint by law enforcement. Contact OLMC if there are any questions about the appropriateness of chemical restraint
+###ENDPROTOCOL
+
+###PROTOCOL 21
+Acute Coronary Syndrome / Suspected Myocardial Infarction / Chest Pain (Adult)
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management and appropriate oxygen therapy
+3. Place patient in a position of comfort
+4. Administer chewable Aspirin 324 mg PO, if available and trained to do so
+CFR STOP
+EMT
+5. Request ALS assistance, do NOT delay transport
+6. Transport
+7. If available, assist the patient with their prescribed Nitroglycerin SL for chest pain every 5 minutes as needed (maximum 3 doses) only if the patient’s SBP > 120 mmHg
+EMT STOP
+Paramedic
+8. Begin cardiac monitoring
+9. Perform, record and evaluate 12-lead EKG
+10. Transport to the closest appropriate STEMI-PCI Center (Appendix I: Hospital Specialty Capabilities) as needed
+11. Obtain intravascular access
+12. Monitor vital signs every 2-3 minutes
+13. Administer Nitroglycerin 0.4 mg SL every 5 minutes as needed for chest pain only if the patient’s SBP > 120 mmHg
+Paramedic STOP
+Medical Control Options
+Key Points / Considerations
+- Acute coronary syndrome is a term used for any condition brought on by sudden reduced blood flow to the heart
+- Transport patients with criteria as determined by the General Operating Procedures to the closest appropriate STEMI-PCI Center
+- Treat any unstable dysrhythmia prior to initiation of a 12-lead EKG
+- Aspirin should NOT be enteric coated
+- Aspirin shall not be administered to patients with known hypersensitivity to aspirin.
+Gastrointestinal complaints are not considered a contraindication
+- Nitroglycerin shall not be administered to patients who have used erectile dysfunction medications within the past 72 hours, unless otherwise directed by OLMC
+- If available, Fentanyl is preferred over morphine for pain management
+###ENDPROTOCOL
+
+###PROTOCOL 22
+Dysrhythmia (Adult)
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management and appropriate oxygen therapy
+CFR STOP
+EMT
+3. Request ALS assistance
+4. Transport
+EMT STOP
+Paramedic
+5. Begin cardiac monitoring
+6. Obtain intravascular access
+7. Assess and treat specific dysrhythmias according to the following sub-protocols:
+  - Atrial Fibrillation/Atrial Flutter (Adult)
+  - Brady-dysrhythmia (Adult)
+  - Supraventricular Tachycardia (Adult)
+  - Ventricular Tachycardia with a Pulse / Wide Complex Tachycardia of Uncertain Type (Adult)
+8. Perform, record and evaluate 12-lead EKG
+9. Monitor vital signs every 2-3 minutes
+Paramedic STOP
+Medical Control Options
+
+Key Points / Considerations
+- Stable Dysrhythmia:
+  - ADULT: Patients with a dysrhythmia NOT associated with signs of hypoperfusion
+- Unstable Dysrhythmia:
+  - ADULT: Patients with a dysrhythmia associated with ANY of the following:
+    - Hypotension (SBP < 90 mmHg or MAP < 65 mmHg)
+    - Altered mental status
+- Consider procedural sedation prior to any electrical therapy for conscious patients
+- When using a monitor for which the maximum joule setting is less than 360 joules, utilize biphasic equivalent synchronized energy settings
+- Further repeated attempts at synchronized cardioversion should be performed using the monitor’s maximum setting if the device cannot deliver more than 200 joules in place of the consecutive joule settings listed in the protocols
+- Diltiazem should be used with caution in patients with liver or kidney disease, congestive heart failure, atrioventricular conduction abnormalities, and/or hypotension. OLMC should be alerted to these conditions, and the dose should be reduced to half the predicted weight-based dose
+- Calcium Chloride and Sodium Bicarbonate should be given in separate IV lines or separated by a flush of at least 20 ml of crystalloid fluid
+- Treat any unstable dysrhythmia prior to the initiation of a 12-lead EKG
+- Intravascular access may be delayed if necessary to allow for emergent synchronized cardioversion of an unstable dysrhythmia.
+###ENDPROTOCOL
+
+###PROTOCOL 24
+Atrial Fibrillation / Atrial Flutter (Adult)
+Paramedic
+1. Unstable Atrial Fibrillation/Atrial Flutter
+1.1. Perform initial synchronized cardioversion using 100 joules
+1.2. Repeat synchronized cardioversion as needed using 200, 300, and 360 joules
+2. Stable Atrial Fibrillation/Atrial Flutter
+2.1. Consider contacting OLMC for medication administration options
+Paramedic STOP
+Medical Control Options
+3. For unstable atrial fibrillation/atrial flutter
+  - OPTION A: Administer Amiodarone 150 mg IV (diluted in 100 ml D5W) over 10 minutes 
+  - OPTION B: Repeat synchronized cardioversion at maximum joule setting
+4. For patients with stable atrial fibrillation/atrial flutter with a persistently elevated heart rate administer one of the following:
+  - OPTION A: Crystalloid fluids 10 ml/kg IV
+  - OPTION B: Diltiazem 0.25 mg/kg IV slowly over 2 minutes while continuously monitoring blood pressure
+  - OPTION C: Amiodarone 150 mg IV (diluted in 100 ml of D5W) over 10 minutes 
+Key Points / Considerations
+  - Treat the underlying cause of the dysrhythmia if it is due to a non-cardiac etiology (i.e. infection, fever, asthma, behavioral)
+###ENDPROTOCOL
+
+###PROTOCOL 25
+Brady-Dysrhythmia (Adult)
+Paramedic
+1. Unstable Brady-Dysrhythmia (ventricular rate < 50 beats/minute AND signs of shock)
+1.1. Administer Atropine Sulfate, 1mg IV
+1.2. Consider performing, evaluating and recording 12 lead EKG
+1.3. Begin transcutaneous pacing
+2. Stable Brady-Dysrhythmia (ventricular rate < 50 beats/minute without signs of shock)
+2.1. Consider contacting OLMC for medication administration options
+Paramedic STOP
+Medical Control Options
+3. Administer Atropine Sulfate 1 mg IV every 3-5 minutes as needed (maximum cumulative dose 3 mg)
+4. Administer Dopamine 5 mcg/kg/min continuous IV infusion (maximum 20 mcg/kg/min). Titrate as needed every 3-5 minutes
+5. Administer Epinephrine 2 mcg/min continuous IV infusion (maximum 10 mcg/min). Titrate as needed every 3-5 minutes
+6. In cases of suspected hyperkalemia or calcium channel blocker overdose, administer Calcium Chloride 1 g IV slowly, followed with a crystalloid fluid flush
+7. For pre-existing acidosis, administer Sodium Bicarbonate 44-88 mEq IV. Repeat Sodium Bicarbonate 44 mEq IV every 10 minutes as needed
+Key Points / Considerations
+###ENDPROTOCOL
+
+###PROTOCOL 26
+Supraventricular Tachycardia (SVT) (Adult)
+Paramedic
+1. Unstable SVT
+1.1. Perform initial synchronized cardioversion using 100 joules
+1.2. Repeat synchronized cardioversion as needed using 200, 300, and 360 joules
+2. Stable SVT
+2.1. Perform vagal maneuver
+2.2. Administer Adenosine 6 mg IV rapidly, followed with a crystalloid fluid flush and observe EKG monitor for 1-2 minutes for evidence of cardioversion
+2.2. For persistent SVT, administer Adenosine 12 mg IV rapidly, followed with a crystalloid fluid flush. Repeat after 1-2 minutes if there is no evidence of cardioversion
+Paramedic STOP
+Medical Control Options
+3. For narrow complex-width tachycardia, administer Diltiazem 0.25 mg/kg IV slowly over 2 minutes while continuously monitoring blood pressure
+4. Administer Amiodarone 150 mg IV (diluted in 100 ml D5W) over 10 minutes 
+Key Points / Considerations
+- Modified Valsalva is the preferred adult vagal maneuver. This is performed by having the patient lay supine with the head of bed elevated and blow through a straw or end of an empty, clean 10 cc syringe for 15 seconds followed by supine repositioning with 15 seconds of passive leg raise at a 45 degree angle
+###ENDPROTOCOL
+
+###PROTOCOL 27
+Ventricular Tachycardia with a Pulse / Wide-Complex Tachycardia of Uncertain Type (Adult)
+Paramedic
+1. Unstable Ventricular Tachycardia with a Pulse
+1.1. Perform initial synchronized cardioversion using 100 joules
+1.2. Repeat synchronized cardioversion as needed using 200, 300, and 360 joules
+1.3. For persistent unstable ventricular tachycardia with a pulse, administer one of the following:
+  - OPTION A: Amiodarone 150 mg IV (diluted in 100 ml D5W) over 10 minutes 
+  - OPTION B: Lidocaine 1 mg/kg IV (maximum 100 mg) over 2 minutes
+2. Stable Ventricular Tachycardia with a Pulse, administer one of the following:
+  - OPTION A: Amiodarone 150 mg IV (diluted in 100 ml D5W) over 10 minutes 
+  - OPTION B: Lidocaine 1 mg/kg IV (maximum 100 mg) over 2 minutes
+Paramedic STOP
+Medical Control Options
+3. Administer Magnesium Sulfate 2 g IV diluted in 10 ml Normal Saline over 2 minutes
+4. In cases of suspected hyperkalemia or calcium channel blocker overdose, administer Calcium Chloride 1 g IV slowly, followed with a crystalloid fluid flush
+5. For pre-existing acidosis, administer Sodium Bicarbonate 44-88 mEq IV. Repeat Sodium Bicarbonate 44 mEq IV every 10 minutes as needed
+6. For persistent or recurring ventricular tachycardia with a pulse, administer one of the following:
+    - OPTION A: Amiodarone 150 mg IV (diluted in 100 ml D5W) over 10 minute
+    - OPTION B: Lidocaine 1 mg/kg IV (maximum 100 mg) over 2 minutes
+Key Points / Considerations
+- Tricyclic antidepressant overdose may cause QRS-widening leading to wide-complex tachycardia which may be worsened by anti-dysrhythmic medications. Consider administering Sodium Bicarbonate or Magnesium Sulfate for these cases. If ventricular tachycardia is persistent, an anti-dysrhythmic is indicated. Amiodarone should be avoided as it may cause additional dysrhythmias
+- For patients who have persistent or recurring ventricular tachycardia with a pulse despite antiarrhythmic medication administration, it is preferential to continue additional dosing of the same antiarrhythmic medication, rather than switch to a different medication
+###ENDPROTOCOL
+
+###PROTOCOL 28
+Dysrhythmia (Pediatric)
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management and appropriate oxygen therapy
+CFR STOP
+EMT
+3. Request ALS assistance, do NOT delay transport
+4. Transport
+EMT STOP
+Paramedic
+5. Begin cardiac monitoring
+6. Assess and treat for severe bradycardia as needed
+7. For stable supraventricular tachycardia, perform vagal maneuvers
+8. For unstable supraventricular tachycardia or ventricular tachycardia with a pulse:
+8.1. Contact OLMC for treatment options
+8.2. Obtain intravascular access
+8.3. Administer crystalloid fluids 20 ml/kg IV (maximum 2 L)
+9. Perform, record and evaluate 12-lead EKG
+10. Monitor vital signs every 2-3 minutes
+Paramedic STOP
+Medical Control Options
+11. For unstable supraventricular tachycardia or ventricular tachycardia with a pulse, perform synchronized cardioversion at the following energy settings using appropriately-sized AED/monitor pads:
+11.1. Initial cardioversion: 0.5-1 joules/kg
+11.2. Subsequent cardioversions as needed: 1-2 joules/kg
+12. For stable supraventricular tachycardia
+12.1. Administer Adenosine 0.1 mg/kg IV rapidly (maximum 6 mg), followed with a crystalloid fluid flush and observe EKG monitor for 1-2 minutes for evidence of cardioversion
+12.2. For persistent SVT, administer Adenosine 0.2 mg/kg IV rapidly (maximum 12 mg), followed with a crystalloid flush. Repeat after 1-2 minutes if there is no evidence of cardioversion
+
+Key Points / Considerations
+- Stable Dysrhythmia:
+  - PEDIATRIC: Patients with a dysrhythmia NOT associated with depressed mental status and/or absent peripheral pulses and/or hypotension
+- Unstable Dysrhythmia:
+  - PEDIATRIC: Patient with a dysrhythmia associated with ANY of the following:
+    - Depressed mental status and absent peripheral pulses
+    - Hypotension (systolic blood pressure < 70 mmHg + [2 x age in years])
+- Consider contacting OLMC for procedural sedation prior to electrical therapy for conscious patients
+- High concentration oxygen should be used in pediatric patients
+- If the cardiac monitor is unable to deliver the desired weight-based joule setting, use the closest setting without exceeding the desired setting
+###ENDPROTOCOL
+
+###PROTOCOL 30
+Obstetric Emergencies
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management and appropriate oxygen therapy
+3. Check for crowning if the mother is having contractions, the urge to push, or has the sensation of having a bowel movement. If crowning is present, prepare for imminent delivery
+4. If delivery has begun, treat appropriately
+5. If delivery is not imminent, place the patient in a LEFT lateral recumbent position
+6. Assess for shock and treat as needed
+CFR STOP
+EMT
+7. Request ALS assistance if delivery is imminent or for any special emergency childbirth considerations
+8. For vaginal bleeding in pregnancy:
+    - Place dressings over the vagina to help estimate the quantity of blood loss
+    - If the patient is immediately post-partum, massage the mother’s abdomen over the uterus
+9. Transport
+EMT STOP
+Paramedic
+10. Obtain intravascular access for patients with severe pre-eclampsia, eclampsia or post-partum hemorrhage
+11. For patients with eclampsia (i.e. seizures secondary to elevated blood pressures during pregnancy), administer Magnesium Sulfate 4 g IV (diluted in 50-100 ml Normal Saline) over 10 minutes
+Paramedic STOP
+Medical Control Options
+12. For severe pre-eclampsia, administer Magnesium Sulfate 2 g IV (diluted in 50-100 ml Normal Saline) over 10 minutes
+Key Points / Considerations
+- Consider supine hypotension syndrome as a cause of shock
+- Severe pre-eclampsia is when pregnant patients have BOTH of the following conditions:
+    - Systolic blood pressure ≥ 160 mm Hg OR a diastolic blood pressure ≥ 110 mm Hg
+    - Symptoms of a headache, visual disturbances, pulmonary edema or lower extremity edema
+- Eclampsia and pre-eclampsia do not occur prior to 20 weeks of gestation
+- Eclampsia and pre-eclampsia may occur up to one (1) month post-partum
+###ENDPROTOCOL
+
+###PROTOCOL 31
+Emergency Childbirth
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management and appropriate oxygen therapy
+3. If the patient is in active labor, visually inspect the vagina for bulging or crowning
+4. If delivery is imminent, proceed as follows:
+4.1. Apply gentle pressure against the delivering newborn’s head to prevent tearing of the perineum
+    - DO NOT apply pressure to the soft spots (fontanels)
+    - Support the bony parts of the head as it presents
+4.2. As the head presents, gently clear the airway of secretions using the bulb syringe as follows:
+    - Depress the bulb syringe prior to insertion
+    - Suction the mouth first by inserting the syringe no more than 1.5 inches into the newborn’s mouth
+    - Suction the nose by inserting the syringe no more than 0.5 inches into the newborn’s nose
+4.3. Nuchal Cord
+    - If the umbilical cord is loose enough, gently slip it over the newborn’s head immediately
+    - If the umbilical cord is wrapped tightly around the neck such that it prevents manipulation, place two clamps on the cord and cut between the clamps
+4.4. Support the head and chest as the newborn delivers
+4.5. Repeat suctioning as necessary prior to spontaneous or stimulated respirations
+4.6. Gently guide the head downward until the shoulder appears. Deliver the other shoulder with gentle upward traction
+4.7. Thoroughly but rapidly dry the newborn with a clean, dry towel
+5. Delay clamping of the umbilical cord for up to one (1) minute after uncomplicated delivery, if safe to do so. Cut the umbilical cord by performing the following:
+5.1. Place the first clamp 8-10 inches from the newborn
+5.2. Place the second clamp 3 inches from the first clamp toward the mother
+5.3. Cut between the clamps and check both ends for bleeding. If continuous bleeding is seen from either end of the cord, add a second clamp to the bleeding end
+5.4. If umbilical clamps are not available, tie the umbilical cord with gauze at the same landmarks, but DO NOT cut the cord
+
+6. Wrap the newborn in a dry, warm blanket/towel with a layer of foil or plastic wrap over the blanket/towel, or use a commercial infant swaddler, if available. Do not use foil alone
+7. Cover the newborn’s scalp with a warm covering
+8. Assess the mother for shock and treat as needed
+9. Assess for postpartum hemorrhage and treat as needed
+10. Place newborn on mother’s chest, if safe to do so
+11. Assess and treat newborn appropriately as indicated
+CFR STOP
+EMT
+12. Request ALS assistance if delivery is imminent. Do not delay transport if delivery is not imminent or to wait for the placenta to deliver
+13. Transport
+14. If miscarriage or stillbirth occurs, bring all fetal material to the hospital with the mother. If the viability of the fetus is uncertain, begin neonatal resuscitation
+15. Special Considerations:
+15.1. Breech Presentation
+    - Place the mother in a face-up position with hips elevated
+    - Support the newborn’s thorax during delivery
+    - Be prepared as a full delivery may occur
+    - If the head does not deliver immediately:
+      - Place sterile, gloved fingers between the newborn’s face and the wall of the birth canal to establish an air passageway. This position must be maintained until the head delivers
+      - Fetal body should be supported at or below the angle of the birth canal. Presenting parts should not be raised upward
+      - Do not apply traction while the newborn is in the birth canal
+15.2. Prolapsed Cord
+    - Place the mother in a knee to chest position
+    - Encourage the mother not to push
+    - If the cord is not pulsating, place sterile, gloved fingers into the birth canal and push the head back 1-2 inches towards the cervix until the cord begins to pulsate
+    - Wrap saline-moistened, sterile dressings around the cord
+    - Do not attempt to insert the cord back into the birth canal
+    - The cord should be continuously monitored for the presence of a pulse
+
+    - This position will most likely need to be maintained during transport to allow for umbilical blood circulation
+15.3. Intact (not ruptured) Amniotic Sac
+    - Immediately remove the sac from around the face using sterile, gloved fingers only
+15.4. Shoulder Dystocia (wedged shoulders)
+    - Encourage the mother not to push
+    - Place the mother in a knee to chest position. This may require having providers assist the mother to maintain a hyperflexed position of the legs (McRoberts maneuver)
+    - Place the mother in Trendelenburg position or place the head of the bed lower than the legs
+    - Apply firm, steady suprapubic pressure. Avoid fundal pressure as this will worsen the condition
+    - If these maneuvers fail to deliver the newborn, reposition the mother on her hands and knees
+    - Guide the head downward to aid in the delivery of the upper shoulder
+15.5. Multiple Births
+    - Deliver each birth accordingly, making sure to tie each umbilical cord between births
+    - Clamp and cut the cord of the first newborn prior to the next birth
+    - If the second birth does not occur within 10 minutes, begin transport
+EMT STOP
+Paramedic
+Paramedic STOP
+Medical Control Options
+Key Points / Considerations
+- Consider supine hypotension syndrome as a cause of shock
+- Newborns are subject to rapid heat loss and must be kept warm and dry
+- Miscarriage usually occurs at less than 20 weeks of gestation. Begin resuscitative efforts of the newborn if the gestational period is unknown
+- The turtle sign is when the newborn’s head retracts back into the vagina, and is an indication of shoulder dystocia
+- It is no longer suggested to perform aggressive suctioning of the newborn when meconium is present
+- Do not aggressively suction premature newborns
+###ENDPROTOCOL
+
+###PROTOCOL 34
+Neonatal Care / Resuscitation
+CRITERIA
+- This protocol applies to neonates within one (1) hour after birth
+CFR and All Provider Levels
+1. Warm, dry and stimulate the neonate 
+{} One (1) Minute After Birth
+2. Assess neonate and if there is poor respiratory effort or poor tone, stimulate breathing by rubbing the lower back and gently flicking the soles of the feet
+3. Ventilate at a rate of 40-60 breaths/min with room air, if the neonate has ANY of the following:
+  - Persistent central cyanosis
+  - Respiratory rate < 30 breaths/min
+  - Heart rate < 100 beats/min 
+{} Two (2) Minutes After Birth
+4. Assess the neonate’s heart rate and perform the following:
+  - Heart rate > 100 beats/min and the newborn has good respiratory effort, continue with supportive care
+  - Heart rate is between 60-100 beats/min OR there is poor respiratory effort, continue ventilations
+  - Heart rate < 60 beats/min after 30 seconds of providing ventilations, start compressions while continuing ventilations in a 3:1 compression to ventilation ratio
+5. Reassess neonate every one minute and perform the following:
+  - If the heart rate > 60 beats/min, do not perform chest compressions and continue ventilating at a rate of 40–60 breaths/min
+  - Provide supplemental oxygen, but do not perform ventilations or compressions, when ALL of the following are present:
+    - Respiratory rate > 30 breaths/min
+    - Heart rate > 60 beats/min
+    - Absence of central cyanosis
+CFR STOP
+EMT
+6. Request ALS assistance
+7. Determine APGAR scores at one (1) minute and five (5) minutes after birth (Appendix K: APGAR Scoring System)
+8. Transport while keeping the neonate warm
+
+9. If possible, obtain oxygen saturation on neonate’s right hand, and administer oxygen via non- rebreather mask if SpO2 is below its predicted value as follows:
+[TABLE]
+Time After Birth (min)	SpO2 %
+1	60-65%
+2	65-70%
+3	70-75%
+4	75-80%
+5	80-85%
+10	85-95%
+[/TABLE]
+  - If neonatal pulse oximetry is not available, administer oxygen via non-rebreather mask if the neonate has central cyanosis or is in respiratory distress
+EMT STOP
+Paramedic
+10. Begin cardiac monitoring
+11. Perform advanced airway management if unable to provide effective bag valve mask ventilations
+12. Do not delay transport for advanced airway management
+13. If transport is delayed and the neonate is in cardiac arrest with a heart rate < 60 beats/min OR if assisted ventilations are required:
+13.1. Obtain intravascular or intraosseous access
+13.2. Administer Epinephrine 0.01 mg/kg IV (0.1 ml/kg of a 1:10,000 solution) every 3-5 minutes as needed
+13.3. Obtain blood glucose level via heel stick. If BGL < 40 mg/dl, administer Dextrose 10% 0.5 g/kg IV via syringe
+13.4. Administer crystalloid fluids 10 ml/kg IV
+Paramedic STOP
+Medical Control Options
+
+Key Points / Considerations
+- Cardiopulmonary resuscitation in a neonate is performed with chest compressions and ventilations in a 3:1 ratio at a rate of 120 per minute (90 compressions, 30 ventilations)
+- Spontaneous respirations should begin within 30 seconds after birth
+- Reposition the airway if unable to ventilate the neonate
+- Each ventilation should be administered gently over one second per respiratory cycle, ensuring that the chest rises with each ventilation
+- Neonates are subject to rapid heat loss and must be kept warm and dry
+- Do not delay transport or resuscitation in order to obtain an APGAR Score
+- The proximal tibia is the only site acceptable for intraosseous access in the neonate
+- Heart rate in neonates is best assessed at the abdomen or the umbilical stump
+- Acrocyanosis (cyanosis of the hands and feet) is a common finding in neonate. If this is present, ensure that the neonate is warm and dry
+###ENDPROTOCOL
+
+###PROTOCOL 37
+Asthma / COPD / Wheezing (Adult and Pediatric)
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management
+3. Administer oxygen
+4. Place the patient in a position of comfort
+5. Assist the patient with administering their prescribed Albuterol (metered dose inhaler or nebulizer), if available and trained to do so
+6. Evaluate for any respiratory distress/respiratory failure, shock, cardiac arrest and treat as needed
+CFR STOP
+EMT
+7. For ADULT and PEDIATRIC patients (age ≥ 2 years or age ≥ 18 months with a history of Albuterol use), administer 0.083% Albuterol Sulfate 3 ml (1 unit dose) mixed with 0.02% Ipratroprium Bromide 2.5 ml (1 unit dose) nebulized over 5-15 minutes. Repeat as needed (maximum 3 doses)
+8. Transport
+  - Initiate transport after starting nebulizer treatment
+  - Do not delay transport to complete medication administration
+9. For ADULT patients with persistent respiratory distress, begin continuous positive airway pressure (CPAP) therapy (Appendix N: Continuous Positive Airway Pressure Therapy), if available
+10. For patients who are in severe respiratory distress/respiratory failure and/or shock, administer Epinephrine as follows:
+  - Age < 9 years and weight < 30 kg:
+    - OPTION A: Epinephrine 0.15 mg IM via syringe, if available
+    - OPTION B: Pediatric Epinephrine auto-injector IM
+  - Age ≥ 9 years or weight ≥ 30 kg:
+    - OPTION A: Epinephrine 0.3 mg IM via syringe, if available
+    - OPTION B: Adult Epinephrine auto-injector IM
+EMT STOP
+{} Paramedic
+11. For ADULT and PEDIATRIC patients (age ≥ 2 years or age ≥ 18 months with a history of Albuterol use), administer 0.083% Albuterol Sulfate 3 ml (1 unit dose) nebulized over 5-15 minutes. Repeat as needed (maximum 3 doses)
+12. For patients with persistent symptoms:
+12.1. Obtain intravascular access
+
+12.2. For ADULT patients, administer Magnesium Sulfate 2 g IV (diluted in 50-100 ml Normal Saline) over 10 minutes
+12.3. For ADULT and PEDIATRIC patients ≥ 2 years old, administer one of the following:
+    - OPTION A: Dexamethasone 0.6 mg/kg IV/IM/PO (maximum 12 mg)
+    - OPTION B: Methylprednisolone 1 mg/kg IV/IM (maximum 60 mg)
+13. For patients who are in severe respiratory distress/respiratory failure and/or shock:
+13.1. Perform advanced airway management as needed
+13.2. If not already administered, or for persistent symptoms despite prior administration, administer Epinephrine 0.01 mg/kg IM (maximum 0.3 mg) of a 1:1,000 concentration [maximum 2 doses, including Epinephrine administered by BLS. Multiple Epinephrine doses shall be given at least 20 minutes apart]
+14. Monitor vital signs every 5 minutes
+15. Begin cardiac monitoring
+Paramedic STOP
+Medical Control Options 
+{} EMT:
+16. Administer additional weight-appropriate dose of Epinephrine IM, if needed and as available:
+  - Age < 9 years and weight < 30 kg:
+    - OPTION A: Epinephrine 0.15 mg IM, if available
+    - OPTION B: Pediatric Epinephrine auto-injector IM
+  - Age ≥ 9 years or weight ≥ 30 kg:
+    - OPTION A: Epinephrine 0.3 mg IM, if available
+    - OPTION B: Adult Epinephrine auto-injector IM
+17. Administer 0.083% Albuterol Sulfate 3 ml (1 unit dose) nebulized over 5-15 minutes. Repeat as needed (maximum 3 doses) 
+{} Paramedic:
+18. Administer Epinephrine 0.01 mg/kg IM (maximum 0.3 mg) of a 1:1,000 concentration
+19. Administer 0.083% Albuterol Sulfate 3 ml (1 unit dose) nebulized over 5-15 minutes. Repeat as needed (maximum 3 doses)
+20. For PEDIATRIC patients, administer Magnesium Sulfate 50 mg/kg IV (maximum 2 g) diluted in 50-100 ml Normal Saline over 10 minutes
+21. For PEDIATRIC patients age < 2 years, administer one of the following:
+  - OPTION A: Dexamethasone 0.6 mg/kg IV/IM/PO (maximum 12 mg)
+  - OPTION B: Methylprednisolone 1 mg/kg IV/IM (maximum 60 mg)
+
+Key Points / Considerations
+- Children < 2 years with their first episode of wheezing likely have viral bronchiolitis. There is no role for racemic Epinephrine, Albuterol, Ipratropium Bromide or steroids in bronchiolitis
+- The management of bronchiolitis includes supplemental oxygen for hypoxic or dyspneic patients, intravenous fluids for signs of severe dehydration, or ventilatory support as needed
+- For children ≥ 18 months for whom there is a history of Albuterol use, or a strong family history of asthma, atopy or eczema; Albuterol may be administered followed by evaluation for clinical response
+- Epinephrine should be used with caution in patients with COPD
+- A silent chest is an ominous sign that indicates respiratory failure and arrest are imminent
+- Under standing orders, ALS may administer a total of 2 doses of Epinephrine, if it was not previously administered by BLS
+- IV formulation of Dexamethasone may be administered orally (PO)
+- Administration of steroids via IV shall be performed slowly over 2 minutes
+- When administering steroids to pediatric patients, Dexamethasone is preferred over Methylprednisolone
+###ENDPROTOCOL
+
+###PROTOCOL 40
+Stridor / Croup / Epiglottitis (Pediatric)
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management
+3. Administer high concentration blow-by oxygen (humidified, if available) delivered by nasal cannula or face mask held 3-5 inches from face, as tolerated
+4. Assess and treat for an obstructed airway as needed
+5. Assess and treat for anaphylaxis as needed
+6. Assess and treat for respiratory distress/respiratory failure, or shock as needed
+CFR STOP
+EMT
+7. Request ALS assistance if the patient is unconscious
+8. Transport
+EMT STOP
+Paramedic
+9. For a child with stridor at rest, administer Epinephrine as follows:
+  - OPTION A: L-Epinephrine 3 mg (3 ml of a 1:1,000 concentration) nebulized
+  - OPTION B: 2.25% Racemic Epinephrine 0.5 ml mixed with 3 ml Normal Saline nebulized
+10. Obtain intravascular access
+11. For pediatric patients age ≥ 2 years, administer one of the following medications for ANY of the following conditions: stridor at rest, respiratory distress, or persistent barky cough:
+  - OPTION A: Dexamethasone 0.6 mg/kg IV/IM/PO (maximum 12 mg)
+  - OPTION B: Methylprednisolone 1 mg/kg IV/IM (maximum 60 mg)
+12. If there is clinical concern for Epiglottitis, do NOT attempt advanced airway management and ventilate using a bag valve mask
+Paramedic STOP
+Medical Control Options
+13. For pediatric patients age < 2 years, administer one of the following medications for ANY of the following conditions: stridor at rest, respiratory distress, or persistent barky cough:
+  - OPTION A: Dexamethasone 0.6 mg/kg IV/IM/PO (maximum 12 mg)
+  - OPTION B: Methylprednisolone 1 mg/kg IV/IM (maximum 60 mg)
+
+Key Points / Considerations
+- Croup should be suspected in a child with stridor, retractions, barking cough, normal or slightly elevated temperature, sternal retractions, or a history of upper respiratory infection
+- Epiglottitis should be suspected in a child with stridor, retractions, muffled voice, high fever, tripod position, or drooling, and toxic appearance
+- Avoid agitating the child, particularly if there is concern for epiglottitis or upper airway edema
+- If the patient has inspiratory stridor, it is often an upper airway problem (physiologic or mechanical obstruction)
+- Unvaccinated children are at higher risk of epiglottitis and a vaccination history should be obtained
+- IV formulation of Dexamethasone may be administered orally (PO)
+- Administration of steroids via IV shall be performed slowly over 2 minutes
+- When administering steroids to pediatric patients, Dexamethasone is preferred over Methylprednisolone
+###ENDPROTOCOL
+
+###PROTOCOL 42
+Heat Emergencies (Adult and Pediatric)
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management and appropriate oxygen therapy
+3. Move the patient to a cooler environment, if possible
+4. Remove outer clothing
+5. Place in recovery position
+6. Assess for shock and treat as needed
+7. If the patient is conscious and able to drink without assistance, provide water if available
+CFR STOP
+EMT
+8. If the patient has altered mental status:
+8.1. Obtain blood glucose level and treat as needed
+8.2. Request ALS assistance
+9. Cool the patient rapidly if they have hot, flushed and dry skin
+10. Transport
+EMT STOP
+Paramedic
+11. Obtain intravascular access
+12. Administer crystalloid fluids 20 ml/kg IV (maximum 2 L)
+Paramedic STOP
+Medical Control Options
+Key Points / Considerations
+- Do not aggressively lower body temperature since this may induce shivering
+- Cooling of the patient should NOT delay transport
+- Patients who are experiencing a heat emergency with signs of shock should be treated and transported rapidly
+- Special populations who are at high risk for adverse outcomes:
+  - Elderly patients
+  - Patients with comorbidities, on diuretics, or psychiatric medications
+  - Athletes
+###ENDPROTOCOL
+
+###PROTOCOL 43
+Cold Emergencies (Adult and Pediatric)
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management and appropriate oxygen therapy
+3. Move the patient to a warmer environment, if possible
+4. If the patient is conscious and able to drink without assistance, provide warm beverages if available
+5. Special Considerations:
+5.1. Localized Cold Injury:
+    - Remove clothing and jewelry from affected area(s)
+    - Protect affected area(s) from pressure, trauma, and friction; wrap area in dry, bulky dressings. If affected, wrap digits individually
+5.2. Generalized Hypothermia:
+    - When evaluating a patient with generalized hypothermia, assess central pulses for one minute if not immediately palpable and perform resuscitation if indicated
+    - Dry the patient and gently remove any wet clothing and jewelry
+    - If available, place heat packs in the patient’s groin area, lateral chest and neck
+    - Wrap the patient in dry blankets
+CFR STOP
+EMT
+6. If the patient has altered mental status:
+6.1. Obtain blood glucose level and treat as needed
+6.2. Request ALS assistance
+7. Transport
+EMT STOP
+Paramedic
+8. Perform advanced airway management as needed
+9. Begin cardiac monitoring
+10. Perform, record and evaluate EKG rhythm
+11. Obtain intravascular access
+12. Administer crystalloid fluids (warmed, if available) 20 ml/kg IV (maximum 2 L)
+Paramedic STOP
+Medical Control Options
+
+Key Points / Considerations
+- Generalized Hypothermia
+  - Vital signs may be extremely depressed and difficult to obtain
+  - Patients with hypothermic immersion may remain viable with prolonged exposures
+  - Head coverings effectively reduce heat loss
+  - Rough handling may precipitate cardiac dysrhythmias and/or cardiac arrest
+  - Use caution with heat packs to prevent burns, particularly with unconscious patients
+- Localized Hypothermia
+  - Do NOT rub affected area(s) or break blisters
+###ENDPROTOCOL
+
+###PROTOCOL 45
+Poisoning (Adult and Pediatric)
+CFR and All Provider Levels
+1. Assess the scene for potential or actual danger and establish a safe zone, if necessary
+2. ABCs and vital signs
+3. Airway management and appropriate oxygen therapy
+4. If an opioid overdose is suspected, treat as needed
+5. Assess for shock and treat as needed
+6. Special Considerations:
+6.1. Ingestion: Do not induce vomiting or attempt to neutralize the substance
+6.2. Inhalation: Ensure that the scene is safe prior to entering and treating the patient; remove the patient from the contaminated environment
+6.3. Absorption:
+    - Take precautions to avoid contamination
+    - Remove contaminated clothing
+    - Brush off any dry agents or blot any excess liquid agents from the skin
+    - Irrigate the area with clean fluid as tolerated until transport
+    - Treat any wounds similar to burns with sterile, saline-moistened dressings
+6.4. Envenomation:
+    - Do NOT attempt to capture the envenomating animal or attempt to remove the venom
+    - Assess for signs of anaphylaxis and treat as needed
+6.4.1. Insect Stings:
+      - If insect debris is obviously seen, attempt to remove debris by scraping with a firm-edged card, if available
+      - Cover with sterile dressing
+      - Apply cold compress
+6.4.2. Marine:
+      - Remove bristles by patting area with adhesive tape and then wipe with alcohol
+      - Remove stinging spine
+      - Cover with sterile dressing
+6.4.3. Snakebite:
+      - Keep affected site(s) lower than heart as tolerated
+      - Cover site(s) with sterile dressing
+      - Stabilize the area and restrict patient activity
+CFR STOP
+
+EMT
+7. If the patient has altered mental status:
+7.1. Obtain blood glucose level and treat appropriately as needed
+7.2. Request ALS assistance
+8. Special Considerations:
+8.1. Inhalation: Obtain carbon monoxide level (SpCO), if available
+8.2. Envenomation: Request ALS assistance but do NOT delay transport
+9. Transport to closest Venomous Bite Center (Appendix I: Hospital Specialty Capabilities) as needed
+EMT STOP
+Paramedic
+10. Perform advanced airway management as needed
+11. Obtain intravascular access
+12. Begin cardiac monitoring
+Paramedic STOP
+Medical Control Options
+Key Points / Considerations
+- Transport patients with envenomation as determined by the General Operating Procedures to the closest appropriate Venomous Bite Center
+- Maintain scene safety including concerns for ambient hazardous materials
+- Utilize appropriate personal protective equipment (PPE)
+- Document the name of the substance(s) involved, the amount taken, and the time and duration of exposure
+- Attempt to obtain information about the product from the container label. If possible, bring the product and its container with the patient to the hospital
+###ENDPROTOCOL
+
+###PROTOCOL 47
+Overdose (Adult and Pediatric)
+CFR and All Provider Levels
+1. Assess the scene for potential or actual danger and establish a safe zone, if necessary
+2. ABCs and vital signs
+3. Airway management
+4. Administer oxygen
+5. CFRs only: If an opioid overdose is suspected AND the patient’s respiratory rate is inadequate, AND Paramedics are not on scene, administer Naloxone IN via mucosal atomizer device (MAD), if available, as follows:
+  - ADULT: Naloxone 1 mg IN in each nostril (cumulative dose 2 mg). Repeat as needed after
+5. minutes if there is no improvement in symptoms (final cumulative dose 4 mg)
+  - PEDIATRIC: Naloxone 0.5 mg IN in each nostril (cumulative dose 1 mg). Repeat as needed after 5 minutes if there is no improvement in symptoms (final cumulative dose 2 mg)
+6. Assess for shock and treat as needed
+7. Do not induce vomiting for ingested substances
+CFR STOP
+EMT
+8. If the patient has altered mental status:
+8.1. Obtain blood glucose level and treat appropriately as needed
+8.2. Request ALS assistance
+9. EMTs only: If an opioid overdose is suspected AND the patient’s respiratory rate is inadequate, AND Paramedics are not on scene, administer Naloxone IN via MAD as follows:
+  - ADULT: Naloxone 1 mg IN in each nostril (cumulative dose 2 mg). Repeat as needed after 5 minutes if there is no improvement in symptoms (final cumulative dose 4 mg)
+  - PEDIATRIC: Naloxone 0.5 mg IN in each nostril (cumulative dose 1 mg). Repeat as needed after 5 minutes if there is no improvement in symptoms (final cumulative dose 2 mg)
+10. Transport
+EMT STOP
+Paramedic
+11. Perform advanced airway management as needed
+12. Obtain intravascular access
+13. For symptomatic patients with suspected cardiac medication overdose treat as needed
+
+14. If an opioid overdose is suspected AND the respiratory rate is inadequate, administer Naloxone as follows:
+  - ADULT: Titrate Naloxone in 0.5 mg increments IV/IM/IN (maximum 4 mg) as needed to response
+  - PEDIATRIC: Titrate Naloxone in 0.5 mg increments IV/IM/IN as needed to response according to age as follows:
+    - Age < 2 years: Maximum 1 mg
+    - Age ≥ 2 years: Maximum 2 mg
+15. Begin cardiac monitoring
+16. Administer Sodium Bicarbonate 1 mEq/kg IV (maximum 44 mEq) for any of the following:
+  - Suspected Salicylate overdose
+  - Any suspected overdose with prolonged QTc > 500 ms or QRS > 100 ms
+Paramedic STOP
+Medical Control Options
+17. Administer Diphenhydramine 1 mg/kg IV/IM (maximum 50 mg) for dystonic reaction from suspected antiemetic, antipsychotic, or antidepressant medications
+18. For suspected sympathomimetic overdose (e.g. cocaine, amphetamines), administer one of the following:
+  - OPTION A: Midazolam 0.2 mg/kg IV/IN/IM (maximum 5 mg)
+  - OPTION B: Lorazepam 0.1 mg/kg IV/IN/IM (maximum 2 mg)
+  - OPTION C: Diazepam 0.2 mg/kg IV/IN/IM (maximum 5 mg)
+Key Points / Considerations
+- Paramedics should not administer the CFR or EMT dosage of Naloxone, and should start with the titration listed in the Paramedic section
+  - It is safest to use the lowest dose of Naloxone that reverses the respiratory depression of an opioid overdose patient. This lowers the risk of precipitating opioid withdrawal and pulmonary edema. If Paramedics are on scene, the higher doses listed in the CFR and EMT sections should be withheld in favor of the titration of smaller increments as listed in the Paramedic section
+- Document the name of the substance(s) involved, the amount taken, and the time and duration of exposure
+- Attempt to obtain information about the product from the container label. If possible, bring the product and its container with the patient to the hospital
+- CFRs and EMTs may administer a maximum of two (2) Naloxone doses as described in their respective protocol sections
+
+- If approved by an agency Medical Director, Naloxone Nasal Spray 4 mg (0.1 ml) IN in one nostril may be substituted for the above Naloxone IN doses for both adult and pediatric patients
+- Naloxone relative contraindications:
+  - Cardiopulmonary arrest
+  - Active seizure
+  - Evidence of nasal trauma, nasal obstruction, or epistaxis
+###ENDPROTOCOL
+
+###PROTOCOL 50
+Seizures (Adult and Pediatric)
+CFR and All Provider Levels
+1. Protect the patient from injury
+2. ABCs and vital signs
+3. Perform airway management with the following special considerations:
+  - Position the patient to maintain airway patency
+  - Do not attempt placement of OPA during convulsions
+  - Consider use of NPA during active seizures, if available
+4. Administer oxygen
+5. Avoid unnecessary or excessive restraint
+6. Treat injuries as needed
+CFR STOP
+EMT
+7. Obtain blood glucose level and treat as needed
+8. Request ALS assistance for ongoing seizures at time of patient contact
+9. Transport
+EMT STOP
+Paramedic
+10. For patients experiencing generalized seizures that are ongoing or recurring AND if the patient is actively seizing, administer one of the following:
+  - OPTION A: Midazolam 0.2 mg/kg IV/IN/IM (maximum 5 mg). Repeat as needed after
+5. minutes (maximum cumulative dose 10 mg)
+  - OPTION B: Lorazepam 0.1 mg/kg IV/IN/IM (maximum 2 mg). Repeat as needed after
+5. minutes (maximum cumulative dose 4 mg)
+  - OPTION C: Diazepam 0.2 mg/kg mg IV (maximum 5 mg) slowly over 1 minute. Repeat as needed after 5 minutes (maximum cumulative dose 10 mg)
+11. Perform advanced airway management as needed
+12. Obtain intravascular access
+13. Begin cardiac monitoring
+Paramedic STOP
+Medical Control Options
+14. If the patient continues to actively seize, administer an additional dose of any standing order medication
+
+Key Points / Considerations
+- Status epilepticus (prolonged or repetitive seizures) is a critical medical emergency.
+Anticonvulsant medication should be administered as soon as possible, preferably starting no later than 5 minutes after the onset of the seizure
+- Intravascular access is the preferred route for benzodiazepine administration if it has already been established. If intravascular access has not been established, utilize the most appropriate and quickest route of administration available, with the intranasal (IN) route preferred over the intramuscular (IM) route
+- The order of preference of medications when treating seizures is determined by a quick onset of action. Because of its fastest onset of action, Midazolam is the preferred medication; followed by Lorazepam and then Diazepam
+- For patients who continue to seize despite benzodiazepine administration, it is preferential to continue additional dosing of the same benzodiazepine, rather than switching to a different medication
+- Diabetic patients with a blood glucose level reading between 60-80 mg/dl may still be symptomatic secondary to hypoglycemia. In the presence of such signs and symptoms, treat accordingly
+- Consider eclampsia as a cause of seizures for pregnant patients in their third trimester or who have delivered within one month and treat as needed
+- When using any of the above medications, monitor the patient using non-invasive capnography, if available
+- Do not administer medications for seizures that have stopped
+###ENDPROTOCOL
+
+###PROTOCOL 52
+Severe Sepsis and Septic Shock (Adult and Pediatric)
+CRITERIA
+- This protocol is for patients with systemic inflammatory response syndrome (SIRS) due to a presumed infection (i.e. sepsis). Patients with shock due to specific reasons (e.g. trauma, cardiac, dysrhythmia, anaphylaxis) should be treated accordingly
+- Adult and pediatric patients are considered to be severely septic and/or in septic shock if they have the following criteria:
+  - Presumed infection AND
+  - ANY TWO of the following clinical abnormalities:
+[TABLE]
+Clinical Abnormality 	Adult	Pediatric
+Abnormal Vital Signs	Heart rate > 110 beats/min	High heart rate (age dependent)
+Abnormal Vital Signs	Respiratory rate > 20 breaths/min OR ETCO < 30 mmHg 2	High respiratory rate (age dependent)
+Abnormal Vital Signs	SBP < 90 mmHg OR MAP < 65 mmHg	 
+Abnormal Temperature	Skin: Tactile fever OR hypothermia; OR temperature > 100.4°F (38°C), if thermometer is available	High respiratory rate (age dependent)
+Signs/Symptoms/ Abnormal Laboratory Values	Altered mental status	Altered mental status (lethargy, irritability)
+Signs/Symptoms/ Abnormal Laboratory Values	White blood count > 12,000 cells/mm3 or < 4,000 cells/mm3 or > 10% bands, if available	Poor perfusion
+Signs/Symptoms/ Abnormal Laboratory Values	 	Need for high concentration oxygen
+Signs/Symptoms/ Abnormal Laboratory Values	Point of care lactate > 4 mmol/l	 
+[/TABLE]
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Administer oxygen
+CFR STOP
+EMT
+3. Obtain blood glucose level and treat as needed
+4. Request ALS assistance
+5. Transport
+EMT STOP
+Paramedic
+6. Perform advanced airway management as needed
+7. Begin cardiac monitoring
+8. Perform, record and evaluate EKG rhythm
+9. For adult patients, obtain intravascular access via either large bore IV or IO. Consider intraosseous access for pediatric patients if needed
+10. Administer crystalloid fluids 20 ml/kg IV
+11. For ADULT patients who remain in shock after the initial 20 ml/kg IV bolus, administer one of the following to maintain SBP > 90 mmHg or MAP > 65 mmHg:
+    - OPTION A: Additional crystalloid fluids 20 ml/kg IV (cumulative fluid bolus 40 ml/kg)
+    - OPTION B: Norepinephrine 2 mcg/min continuous IV infusion (maximum 20 mcg/min). Titrate as needed every 3-5 minutes
+    - OPTION C: Epinephrine 10 mcg IV over 1 minute. Repeat as needed every 3-5 minutes
+11. Monitor vital signs every 2-3 minutes
+Paramedic STOP
+Medical Control Options
+12. Administer additional dosing of any standing order medication
+13. For ADULT patients administer Vasopressin 0.02 units/min continuous IV infusion (maximum 0.04 units/min) to maintain SBP > 90 mmHg or MAP > 65 mmHg. Titrate as needed every 3-5 minutes
+14. For PEDIATRIC patients administer one of the following to maintain minimum age-appropriate blood pressure:
+    - OPTION A: Additional crystalloid fluids 20 ml/kg IV (cumulative fluid bolus 40 ml/kg)
+    - OPTION B: Epinephrine 5 mcg IV over 1 minute. Repeat as needed every 3-5 minutes
+    - OPTION C: Norepinephrine 0.05 mcg/kg/min continuous IV infusion (maximum 20 mcg/min). Titrate as needed every 3-5 minutes
+Key Points / Considerations
+- Other parameters such as pale or cool skin, delayed capillary refill, altered mental status, or lack of a radial pulse are signs of hypoperfusion that should be considered as an indication for treatment within this protocol even if a patient has an age-appropriate minimum SBP
+- Peri-intubation hypotension may lead to patient decompensation and/or cardiac arrest. Attempt to improve blood pressure via crystalloid fluid infusion and/or vasopressors prior to intubation
+- Continuous vasopressor infusions must be administered using an IV flow regulating device or IV infusion pump
+###ENDPROTOCOL
+
+###PROTOCOL 54
+Shock (Adult)
+CRITERIA
+- This protocol is for patients who are persistently hypotensive (SBP < 90 mmHg or MAP < 65 mmHg) despite treatment under other existing protocols, or are hypotensive from an unclear etiology.
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Administer oxygen
+3. Control external bleeding
+4. Maintain body temperature
+CFR STOP
+EMT
+5. Obtain blood glucose level and treat as needed
+6. Request ALS assistance
+7. Transport
+EMT STOP
+Paramedic
+8. Perform advanced airway management as needed
+9. Begin cardiac monitoring
+10. Perform, record and evaluate EKG rhythm
+11. Obtain intravascular access via either large bore IV or IO
+12. Administer crystalloid fluids 20 ml/kg IV
+13. For patients who remain in shock after the initial 20 ml/kg IV bolus, administer one of the following to maintain SBP > 90 mmHg or MAP > 65 mmHg:
+  - OPTION A: Additional crystalloid fluids 20 ml/kg IV (total fluid bolus 40 ml/kg)
+  - OPTION B: Norepinephrine 2 mcg/min continuous IV infusion (maximum 20 mcg/min). Titrate as needed every 3-5 minutes
+  - OPTION C: Epinephrine 10 mcg IV over 1 minute. Repeat as needed every 3-5 minutes
+14. Monitor vital signs every 2-3 minutes
+Paramedic STOP
+Medical Control Options
+15. Administer additional dosing of any standing order medication
+16. Administer Vasopressin 0.02 units/min continuous IV infusion (maximum 0.04 units/min) to maintain SBP > 90 mmHg or MAP 65 mmHg. Titrate as needed every 3-5 minutes
+
+Key Points / Considerations
+- Patients with shock due to a specific etiology addressed in other protocols that do not include vasopressors (e.g. trauma, dysrhythmia) should be treated accordingly prior to utilizing this protocol. Providers who are managing patients who remain hypotensive despite treatment in these protocols should utilize medical control options listed in the respective protocols rather than utilizing this protocol.
+- Peri-intubation hypotension may lead to patient decompensation and/or cardiac arrest.
+Attempt to improve blood pressure via crystalloid fluid infusion and/or vasopressors prior to intubation
+- Continuous vasopressor infusions must be administered using an IV flow regulating device or IV infusion pump
+###ENDPROTOCOL
+
+###PROTOCOL 56
+Stroke [Cerebrovascular Accident (CVA)] (Adult and Pediatric)
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management and appropriate oxygen therapy
+CFR STOP
+EMT
+3. Obtain blood glucose level (BGL) and treat as follows:
+  - For BGL ≥ 60 mg/dl evaluate for possible stroke using NYC S-LAMS scale
+    - Determine each component and total score of the NYC S-LAMS scale by interviewing the patient, family and/or bystanders
+    - Determine the “last known well” (LKW) and the exact time the patient was in their usual state of health and/or last seen without symptoms. Note that this may be different than “time of symptom onset”
+  - For BGL < 60 mg/dl, treat accordingly and perform the following:
+    - For neurological symptoms that have resolved after appropriate hypoglycemia treatment, transport patient to the closest appropriate 911-receiving hospital
+    - For neurological symptoms that persist after appropriate hypoglycemia treatment and BGL ≥ 60 mg/dl evaluate for possible stroke using NYC S-LAMS scale
+4. Transport to the closest appropriate Stroke Center (Appendix I: Hospital Specialty Capabilities) as needed
+EMT STOP
+Paramedic
+5. Do NOT delay transport
+6. Begin cardiac monitoring
+7. Obtain intravascular access
+Paramedic STOP
+Medical Control Options
+8. Administer Metoprolol 5 mg IV slow push for blood pressure ≥ 210/120 mmHg, if available
+
+Key Points / Considerations
+- Transport patients to the closest appropriate Stroke Center as determined by the General Operating Procedures and Appendix G: Stroke Patient Assessment, Triage and Transportation
+- For pediatric patients with symptoms of acute stroke, contact OLMC for transport decision to a hospital with pediatric critical care capabilities
+- Patients who have a complaint of stroke-like symptoms with a last known well (LKW) < 24 hours that have resolved should be evaluated for a stroke. These patients may have a transient ischemic attack (TIA) and may present with a NYC S-LAMS score of zero. These patients should be transported to a Primary Stroke Center
+- If the patient has a NYC S-LAMS score ≤ 3, transport the patient to the closest appropriate Primary Stroke Center (Appendix I: Hospital Specialty Capabilities)
+- If the patient has a NYC S-LAMS score ≥ 4, contact OLMC for a transport decision to the closest appropriate Thrombectomy Stroke Center (Appendix I: Hospital Specialty Capabilities). OLMC will determine the transport destination based on the patient having any one of the following exclusion criteria:
+  - Total time from onset of patient’s symptoms to EMS patient contact > 24 hours
+  - Patient is wheelchair or bed-bound
+  - Seizure is cause of patient’s neurologic symptoms
+  - Loss of Consciousness (LOC)
+  - Trauma is cause of patient’s neurologic symptoms
+  - Transport time to Thrombectomy Stroke Center > 30 minutes
+###ENDPROTOCOL
+
+###PROTOCOL 58
+Severe Nausea / Vomiting (Adult and Pediatric)
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management and appropriate oxygen therapy
+3. Assess for any specific cause of the patient’s symptoms (i.e. trauma, poisoning, acute coronary syndrome) and treat as needed
+4. Do not allow the patient to eat or drink
+5. Place patient in position of comfort
+6. Assess for shock and treat as needed
+CFR STOP
+EMT
+7. Place isopropyl alcohol prep pad under patient’s nose and allow patient to inhale vapor
+8. Transport
+EMT STOP
+Paramedic
+8. Obtain intravascular access
+9. Monitor vital signs every 5 minutes
+10. For signs of dehydration, administer crystalloid fluids 20 ml/kg IV (maximum 1 L)
+11. For patients age ≥ 6 months with severe nausea and/or vomiting, administer Ondansetron
+0.1. mg/kg PO/IV/IM (maximum 8 mg)
+Paramedic STOP
+Medical Control Options
+Key Points / Considerations
+- IV formulation of Ondansetron may be administered orally (PO)
+- Ondansetron has been associated with prolongation of the QT interval, possibly resulting in Torsades de Pointes. Considerations for Ondansetron administration:
+    - Do not administer to patients with a personal or family history of QT prolongation
+    - Cautious use in patients with either a cardiac history or in those patients who take medications known to cause QT prolongation
+    - Begin cardiac monitoring and obtain a 12-lead EKG for possible detection of prolonged QT or possible cardiac etiology of symptoms
+###ENDPROTOCOL
+
+###PROTOCOL 59
+Hyperglycemia (Adult and Pediatric)
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management and appropriate oxygen therapy
+3. Evaluate and treat for shock as needed
+CFR STOP
+EMT
+4. Obtain blood glucose level (BGL) and request ALS assistance for patients with a BGL > 300 mg/dl AND any of the following conditions: altered mental status, tachypnea, or signs of dehydration
+5. Transport
+EMT STOP
+Paramedic
+6. Perform advanced airway management as needed
+7. Obtain intravascular access for patients with any of the following:
+  - BGL > 300 mg/dl AND any of the following conditions: altered mental status, tachypnea, or signs of dehydration
+  - BGL > 500 mg/dl
+  - Glucometer reading of “high”, “HI”, or “check ketones”
+8. If intravascular access was obtained, administer crystalloid fluid 20 ml/kg IV (maximum 1 L)
+9. Begin cardiac monitoring
+Paramedic STOP
+Medical Control Options
+10. Administer crystalloid fluids 20 ml/kg IV (maximum 1 L)
+Key Points / Considerations
+- Document the amount of crystalloid fluids administered
+###ENDPROTOCOL
+
+###PROTOCOL 60
+Decompression Sickness (Adult and Pediatric)
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management
+3. Administer oxygen
+4. Assess for shock and treat as needed
+CFR STOP
+EMT
+5. Transport patients with any of the following signs and symptoms of decompression sickness after diving AND their companion divers to the closest Hyperbaric Center (Appendix I:Hospital Specialty Capabilities):
+  - Neurologic: abnormal gait, dizziness, extremity weakness/numbness
+  - Cardiac/Respiratory: chest pain, difficulty breathing, hypoxia
+  - Gastrointestinal: abdominal pain, nausea, vomiting
+  - Musculoskeletal: joint/muscle pain, painful range of motion
+  - Skin: rashes or itching
+EMT STOP
+Paramedic
+Paramedic STOP
+Medical Control Options
+Key Points / Considerations
+- Transport patients as determined by the General Operating Procedures to the closest appropriate Hyperbaric Center
+- Bring the patient’s dive computer/dive watch, if available
+- If possible, obtain the following information regarding the dive:
+  - Specific information for the dive(s) including:
+    - Maximum depth
+    - Total time spent underwater
+    - Bottom time
+    - Time of ascension to the surface
+  - Mixture of compressed gases used during the dive(s)
+  - Any improvement of symptoms since ascension to the surface
+  - Time since last dive was completed and any air travel history since the last dive
+###ENDPROTOCOL
+
+###PROTOCOL 61
+General Pain Management (Adult and Pediatric)
+CRITERIA
+- This protocol is for patients who require analgesic medications for pain of any etiology
+- OLMC shall be contacted PRIOR to the administration of analgesic medications for ANY of the following conditions:
+  - Altered mental status
+  - Hypoventilation
+  - Hemodynamically unstable
+  - Pregnant or suspected of being pregnant
+- Patients should be monitored using non-invasive capnography, if available
+CFR and All Provider Levels
+CFR STOP
+EMT
+EMT STOP
+Paramedic
+1. Begin cardiac and pulse oximetry monitoring
+2. Obtain intravascular access, as indicated
+3. Monitor vital signs every 5 minutes
+4. Administer one of the following, as available:
+  - OPTION A: Acetaminophen 15 mg/kg PO/IV (maximum 1000 mg). Administration of an additional opioid analgesic (OPTION C or OPTION D) may be considered for persistent severe pain
+  - OPTION B: ADULT: Ketorolac 15 mg IV/IM. Administration of an additional opioid analgesic (OPTION C or OPTION D) may be considered for persistent severe pain
+  - OPTION C: Morphine in incremental doses titrated to effect. Initial dose up to 0.1 mg/kg IV/IM (maximum 5 mg). Repeat as needed up to an additional 0.1 mg/kg (maximum cumulative dose 10 mg) for patients with SBP > 110 mmHg
+  - OPTION D: Fentanyl in incremental doses titrated to effect. Initial dose up to 1 mcg/kg IV/IM/IN (maximum 100 mcg). Repeat as needed up to an additional 1 mcg/kg (maximum cumulative dose 200 mcg)
+5. Transport
+Paramedic STOP
+Medical Control Options
+6. Administer one of the following: OPTION A: Morphine 0.1 mg/kg IV/IM OPTION B: Fentanyl 1 mcg/kg IV/IM/IN
+
+7. Administer Ketamine 0.2 mg/kg IV (maximum 25 mg) slowly OR Ketamine 0.4 mg/kg IM/IN (maximum 50 mg)
+Key Points / Considerations
+- The maximum doses for all medications in the REMAC protocols refer to the maximum weight- based dose for the patient
+- Administer Acetaminophen IV over 15 minutes
+- Contraindications for Ketorolac:
+  - Renal failure and/or hemodialysis
+  - Age ≥ 65 years
+  - Pregnancy
+  - Abdominal pain
+  - Injuries with a risk for bleeding or suspected fracture
+- Assess for hypoventilation after opioid medication administration and treat as needed
+###ENDPROTOCOL
+
+###PROTOCOL 63
+Procedural Sedation / Sedation for Advanced Airway Management (Adult and Pediatric)
+CRITERIA
+- This protocol is for patients who are conscious and require medications for:
+  - Procedural sedation: Short-term analgesic, sedation, and/or anxiolysis for procedures such as synchronized cardioversion or transcutaneous pacing
+  - Sedation for advanced airway management: Analgesic and/or sedation to perform or maintain an advanced airway (endotracheal intubation or use of a supraglottic airway device)
+- In order to sedate the patient under standing orders to perform advanced airway management, the patient must meet ALL of the following criteria:
+  - Adult
+  - Altered mental status
+  - Respiratory rate < 10 breaths/min
+  - SpO < 90% without supplemental oxygen 2
+  - No immediate reversible cause of symptoms (e.g. opiate overdose responding to Naloxone)
+- Adult patients who do not meet the above criteria MUST have prior approval of medications through OLMC
+- Pediatric patients requiring procedural sedation or sedation for advanced airway management MUST have prior approval of medications through OLMC
+- Continuous waveform capnography MUST be used whenever advanced airway management is performed EXCEPT when a supraglottic airway device is used and there are insufficient resources available (e.g. MCI event or other similar situations)
+- Other procedures should be monitored using non-invasive capnography, if available
+CFR and All Provider Levels
+CFR STOP
+EMT
+EMT STOP
+Paramedic
+1. ABCs and vital signs
+2. Administer oxygen
+3. Obtain intravascular access
+4. Begin cardiac monitoring
+5. Monitor vital signs every 2-3 minutes
+
+Procedural Sedation
+6. For an ADULT patient requiring procedural sedation (e.g. synchronized cardioversion, transcutaneous pacing), administer one of the following:
+  - OPTION A: Etomidate 0.15 mg/kg IV (maximum 20 mg)
+  - OPTION B: Ketamine 1 mg/kg IV (maximum 100 mg)
+  - OPTION C: Midazolam 0.1 mg/kg IV (maximum 5 mg)
+  - OPTION D: Diazepam 0.1 mg/kg IV (maximum 10 mg)
+  - OPTION E: Lorazepam 0.02 mg/kg IV (maximum 4 mg) Sedation for Placement of an Advanced Airway
+7. For induction to perform advanced airway management of an ADULT patient with ALL OF THE FOLLOWING CRITERIA:
+  - Altered mental status
+  - Respiratory rate < 10 breaths/min
+  - SpO < 90% without supplemental oxygen 2
+  - No immediate reversible cause of symptoms (e.g. opiate overdose responding to Naloxone) Administer one of the following:
+    - OPTION A: Etomidate 0.3 mg/kg IV (maximum 40 mg)
+    - OPTION B: Ketamine 2 mg/kg IV (maximum 200 mg) Sedation for ADULT Patients with an Advanced Airway in Place
+8. For sedation of an ADULT patient with an advanced airway in place, administer one of the following:
+    - OPTION A: Fentanyl 1 mcg/kg IV (maximum 100 mcg). Administration of a sedative (OPTION B-OPTION E) may be considered for additional sedation
+    - OPTION B: Ketamine 1 mg/kg IV (maximum 100 mg)
+    - OPTION C: Midazolam 0.2 mg/kg IV (maximum 5 mg)
+    - OPTION D: Diazepam 0.2 mg/kg IV (maximum 10 mg)
+    - OPTION E: Lorazepam 0.1 mg/kg IV (maximum 4 mg)
+Paramedic STOP
+Medical Control Options
+9. For an ADULT patient who does not meet the criteria for standing order sedation for advanced airway management, administer medication options for induction and/or sedation with an advanced airway in place according to the dosing options as listed above
+
+10.For a PEDIATRIC patient requiring procedural sedation, sedation for advanced airway management, including induction and/or sedation with an advanced airway in place, administer medication options according to the weight-based dosing for adult patients
+Key Points / Considerations
+- Due to its short duration of action, consider using Etomidate as a single sedative agent only for short-term procedures such as synchronized cardioversion
+- Consider contacting OLMC for analgesia when performing potentially painful procedures such as transcutaneous pacing or synchronized cardioversion
+- Medications may be administered to a patient to maintain an advanced airway, even if an induction agent was not used to place the airway
+- If a difficult intubation is anticipated, and the patient can be effectively ventilated, consider managing the patient’s airway without performing advanced airway management
+- Peri-intubation hypotension may lead to patient decompensation and/or cardiac arrest. Attempt to improve blood pressure via crystalloid fluid infusion and/or vasopressors prior to intubation
+###ENDPROTOCOL
+
+###PROTOCOL 66
+Vaccine Administration (Adult and Pediatric)
+INTRODUCTION
+- This protocol applies to the administration of regionally approved vaccines and is to be used at the discretion of an agency Medical Director
+CFR and All Provider Levels
+CFR STOP
+EMT
+1. Assess patient for need of vaccination
+2. Screen for contraindications and precautions (Appendix Q: Vaccinations)
+3. Provide all patients (parent/legal representative) with a copy of the most current Federal Vaccine Information Statement (VIS). Document the publication date of the VIS and the date it was given to the patient (parent/legal representative). If available and preferred, a copy of the VIS should be given in the patient’s (parent/legal representative) native language (www.immunize.org/vis)
+4. Administer vaccine
+  - Refer to Appendix Q: Vaccinations for the appropriate vaccine preparation instructions
+  - Intranasal vaccines shall be administered according to directions in Appendix Q: Vaccinations
+  - Intramuscular vaccines shall be administered using the needle gauge, needle length, and injection site according to the following:
+{} ADULT FEMALE
+[TABLE]
+Patient Weight	Needle Gauge	Needle Length (inches)	Injection Site
+< 130 lbs. (59 kg)	22 - 25	5/8 - 1	Deltoid muscle
+130 – 152 lbs. (59-69 kg)	22 - 25	1	Deltoid muscle
+153 – 200 lbs. (69-91 kg)	22 - 25	1 - 1.5	Deltoid muscle
+> 200 lbs. (91 kg)	22 - 25	1.5	Deltoid muscle
+[/TABLE]
+{} ADULT MALE
+[TABLE]
+Patient Weight	Needle Gauge	Needle Length (inches)	Injection Site
+< 130 lbs. (59 kg)	22 - 25	5/8 - 1	Deltoid muscle
+130 –152 lbs. (59-69 kg)	22 - 25	1	Deltoid muscle
+153 – 260 lbs. (69-118 kg)	22 - 25	1- 1.5	Deltoid muscle
+> 260 lbs. (118 kg)	22 - 25	1.5	Deltoid muscle
+[/TABLE]
+{} PEDIATRIC
+[TABLE]
+Patient Age (years)	Needle Gauge	Needle Length (inches)	Injection Site
+< 5	22 - 25	5/8 - 1	Anterior thigh
+≥ 5	22 - 25	5/8 - 1	Deltoid muscle
+[/TABLE]
+  - When using a 5/8 inch needle for injections into the deltoid muscle, ensure that the needle is perpendicular (90° angle) to the skin and that the skin is stretched taut
+5. Documentation shall include the date of immunization, immunizations administered, dose, injection site, lot number, manufacturer, VIS date, and the identification of the provider administering the vaccine. If the vaccine was not administered, record the reason for the non- receipt
+6. Patients shall be monitored for any adverse reactions for fifteen (15) minutes after vaccine administration. If the patient has a history of allergies that is not severe enough to be a contraindication for the vaccine, observe the patient for thirty (30) minutes
+EMT STOP
+Paramedic
+Paramedic STOP
+Medical Control Options
+Key Points / Considerations
+- Patient records shall be reported to the New York State Immunization Information System (NYSIIS) database within 24 hours
+- Adverse events occurring after administration of any vaccine should be reported to the Vaccine Adverse Event Reporting System (VAERS) online at https://vaers.hhs.gov. Additional information about VAERS is available by telephone at 800-822-7967
+###ENDPROTOCOL
+
+###PROTOCOL 68
+General Trauma Care (Adult and Pediatric)
+CFR and All Provider Levels
+1. Control external bleeding
+2. Perform spinal injury precautions as needed
+3. ABCs and vital signs
+4. Airway management and appropriate oxygen therapy
+5. For evisceration injuries:
+  - Do NOT reinsert or reduce the protruding organ
+  - Do NOT pour liquid directly onto the wound
+  - Place saline-moistened, sterile dressings over the organ
+  - Secure dry, bulky dressings over the moistened dressings
+  - Place an occlusive dressing over the moistened dressings to maintain body heat
+  - Position the patient appropriately with knees slightly bent
+6. For open chest injuries, cover with occlusive dressing; if dyspnea increases, release the dressing momentarily during exhalation
+7. For impaled objects:
+  - Unless it compromises the airway, DO NOT remove the object
+  - Support and secure the object with bulky dressings
+8. Treat extremity injuries
+CFR STOP
+EMT
+9. Stabilize potentially unstable pelvic fractures
+10. Transport patient to the closest appropriate Trauma Center (Appendix I: Hospital Specialty Capabilities) as needed
+EMT STOP
+Paramedic
+11. Perform needle decompression for a suspected tension pneumothorax (Appendix M: Needle Decompression of Tension Pneumothorax) as needed
+12. Begin cardiac monitoring
+13. Obtain intravascular access
+14. Administer crystalloid fluids 20 ml/kg IV (maximum 2 L) as needed to maintain SBP > 90 mmHg or MAP > 65 mmHg
+15. Treat for pain as needed
+Paramedic STOP
+Medical Control Options
+
+Key Points / Considerations
+- Transport patients with criteria as determined by General Operating Procedures and Appendix: E Trauma Center Transport Criteria to the closest appropriate Trauma Center
+- Decreased breath sounds or muffled heart sounds indicate life-threatening chest injuries. The patient should be transported immediately
+- The first priority for trauma patients is to ștop further external bleeding
+- Crystalloid fluid is a temporizing measure for patients in shock from blood loss and require definitive care at a hospital. Do not delay transport to obtain intravascular access or administer crystalloid fluids
+- Stabilize any unstable pelvic fractures by using conventional methods or a commercial pelvic binder if available
+###ENDPROTOCOL
+
+###PROTOCOL 70
+Traumatic Cardiac Arrest (Adult and Pediatric)
+CFR and All Provider Levels
+1. Begin CPR as per AHA guidelines
+2. Control any bleeding as needed without interrupting CPR
+3. Turn on the Automated External Defibrillator (AED)
+4. Apply appropriately-sized AED pads to the patient’s bare chest with minimal interruption of chest compressions
+5. Connect AED pads and follow the AED voice prompts
+6. Continue CPR, re-analyze every two (2) minutes and shock as indicated
+CFR STOP
+EMT
+7. Request ALS assistance
+8. Continue CPR and AED analysis with minimal interruption of chest compressions
+9. Transport
+EMT STOP
+Paramedic
+10. Continue CPR and defibrillation cycles with minimal interruption of chest compressions
+11. If an AED is in place, transition from the AED to an ALS monitor after AED analysis and begin cardiac monitoring. Defibrillate with the following energy settings using appropriately-sized AED/monitor pads:
+  - Adult: Maximum joule setting possible
+  - Pediatric:
+    - Initial defibrillation: 2 joules/kg
+    - Second defibrillation as needed: 4 joules/kg
+    - Subsequent defibrillations as needed: 10 joules/kg
+12. If the cause of the cardiac arrest is suspected to be secondary to a medical condition that is non- traumatic, treat accordingly as a non-traumatic cardiac arrest
+13. Perform needle decompression for a suspected tension pneumothorax (Appendix M: Needle Decompression of Tension Pneumothorax) as needed
+14. Perform advanced airway management after second rhythm analysis
+15. Obtain intravascular access via either large bore IV or intraosseous site. Consider intraosseous access for pediatric patients if needed
+16. Administer crystalloid fluid 20 ml/kg IV (maximum 2 L)
+Paramedic STOP
+Medical Control Options
+18. Administer additional crystalloid fluid 20 ml/kg IV (maximum 1 L)
+
+Key Points / Considerations
+- Do not interrupt compressions for placement of an advanced airway
+- Traumatic arrests should be transported as soon as possible
+- AED should be placed as soon as possible without interrupting compressions
+- Artifact from vibrations in a moving ambulance may compromise the effectiveness of an AED
+- Maximum joule setting may vary depending on the defibrillator used
+- As per AHA, the benefit of double sequential defibrillation for refractory shockable rhythms has not been established
+- If the cardiac monitor is unable to deliver the desired weight-based joule setting, use the closest setting without exceeding the desired setting
+###ENDPROTOCOL
+
+###PROTOCOL 72
+Amputation (Adult and Pediatric)
+CFR and All Provider Levels
+1. Control external bleeding
+2. ABCs and vital signs
+3. Elevate and wrap the amputated extremity with moist sterile dressings and cover with dry bandage
+4. Care for amputated part:
+  - Moisten sterile dressing with sterile saline solution and wrap amputated part
+  - Place the amputated part in a water-tight container, such as a sealed plastic bag
+  - Label the bag with the patient’s name and time of the injury
+  - Place the container on ice or cold packs, using caution to avoid freezing the amputated part
+CFR STOP
+EMT
+5. Transport
+EMT STOP
+Paramedic
+Paramedic STOP
+Medical Control Options
+Key Points / Considerations
+- If possible, transport the amputated part with the patient, but do not delay transport to search for the amputated part
+###ENDPROTOCOL
+
+###PROTOCOL 73
+Avulsed Tooth (Adult and Pediatric)
+CRITERIA
+- This protocol applies only for permanent teeth
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Hold the tooth by the crown (not the root)
+3. Rinse the tooth with saline before reimplantation, but do not brush off or clean the tooth of tissue
+4. Remove the clot from the socket; and suction the clot, if needed
+5. Reimplant the tooth firmly into its socket with digital pressure
+6. Have the patient hold the tooth in place using gauze and bite pressure
+CFR STOP
+EMT
+8. Transport
+EMT STOP
+Paramedic
+Paramedic STOP
+Medical Control Options
+Key Points / Considerations
+- Report to hospital staff that a tooth has been reimplanted
+- As appropriate, the best transport medium for an avulsed tooth is in the socket
+- Reimplantation is most successful when it occurs within five minutes of the injury
+- Do not reimplant the tooth if the patient has any of the following conditions:
+  - Altered mental status
+  - Requires transportation in a supine position
+  - Alveolar bone/gingiva are not present or if the root is fractured
+  - Immunosuppression or if the patient has a cardiac condition requiring antibiotics prior to procedures
+- If the patient is not a candidate for reimplantation and has avulsed a permanent tooth, place the avulsed tooth in interim storage media (commercial tooth preservation media, low fat milk, patient’s saliva, or saline) and keep cool. Do not allow the permanent tooth to dry, but avoid tap water as a storage medium if possible
+###ENDPROTOCOL
+
+###PROTOCOL 74
+Bleeding / Hemorrhage Control (Adult and Pediatric)
+CFR and All Provider Levels
+1. Assess site of injury and control external bleeding accordingly:
+  - Uncontrolled life-threatening external bleeding from an extremity
+    - Place tourniquet 2-3 inches proximal to the wound
+    - If bleeding continues, place a second tourniquet proximal to the first. If the wound is distal to the knee or elbow, place the second tourniquet proximal to these joints. If the bleeding site cannot be rapidly identified, place a tourniquet “high and tight”
+  - Uncontrolled life-threatening external bleeding from an anatomical junction
+    - Pack the wound with gauze or hemostatic dressing, if available. Place pressure over the dressing and secure in place
+  - Severe external bleeding
+    - Apply direct pressure on the wound with gauze or hemostatic dressing, if available
+    - Pack wound and hold pressure, using additional dressings as needed
+    - If severe bleeding persists when using conventional dressings and hemostatic dressing becomes available, remove initial dressings and replace with hemostatic dressing at site of bleeding
+    - Cover with a pressure bandage and secure in place
+  - Severe external bleeding from a dialysis shunt or fistula
+    - Apply digital pressure to the bleeding site
+    - Cover with a pressure dressing and secure in place
+2. ABCs and vital signs
+3. Airway management and appropriate oxygen therapy
+4. Assess for shock and treat as needed
+CFR STOP
+EMT
+5. Transport
+EMT STOP
+Paramedic
+Paramedic STOP
+Medical Control Options
+
+Key Points / Considerations
+- Use of tourniquets for severe bleeding from a dialysis shunt or fistula should only be used when other means of hemorrhage control have been unsuccessful
+- Infection control precautions must be followed with all patients, especially with the patient’s blood
+- Hemostatic dressings shall be used according to manufacturer’s instructions and/or respective agency training
+- Rolled gauze may be used in place of hemostatic dressing if hemostatic dressings are not available
+- DO NOT remove a tourniquet that was used to control life-threatening hemorrhage
+- Note the time of tourniquet application and location of tourniquet(s)
+- If clinical judgment of the provider indicates that the tourniquet was placed inappropriately (e.g.
+minor wound) or there is a significant delay in transport, consider releasing tourniquet. Caution shall be made to ensure the ability to immediately re-apply the tourniquet and control any possible recurrent hemorrhage
+###ENDPROTOCOL
+
+###PROTOCOL 76
+Burns (Adult and Pediatric)
+CFR and All Provider Levels
+1. Ștop the burning process
+2. ABCs and vital signs
+3. Airway management and appropriate oxygen therapy
+4. Remove smoldering clothing that is not adherent to the patient’s skin
+5. If possible, remove rings, bracelets, and constricting objects on the burned extremity
+6. Cover the burn with dry sterile dressings or sterile non-adherent dressings, if available
+7. Immediately irrigate burns to the eye with Normal Saline or water
+8. Assess and treat for smoke inhalation appropriately as needed
+9. Maintain patient’s body temperature
+CFR STOP
+EMT
+10. Cover burns with moist sterile dressings only if the burn is ≤ 10% of total body surface area (TBSA)
+11. Transport patient to the closest appropriate Burn Center (Appendix I: Hospital Specialty Capabilities) as needed
+EMT STOP
+Paramedic
+13. Perform advanced airway management for any evidence of burns to the upper airway or if upper airway compromise is anticipated
+14. Begin cardiac monitoring
+15. Obtain intravascular access
+16. For partial and full thickness burns (2nd degree burns or higher) > 20% TBSA, administer crystalloid fluids 20 ml/kg IV (maximum 1 L)
+17. Assess and treat for chemical eye injuries/burns as needed
+Paramedic STOP
+Medical Control Options
+18. For a delay in transport, administer crystalloid fluids 20 ml/kg IV (maximum 1 L)
+
+Key Points / Considerations
+- Transport patients with criteria as determined in the General Operating Procedures and Appendix F: Burn Center Transport Criteria to the closest appropriate Burn Center
+- Assure scene safety and patient decontamination for chemical burns/HAZMAT exposure
+  - For liquid chemical burns: flush with copious amounts of water or saline, ideally for a minimum of 20 minutes
+  - For dry powder burns: brush powder off before flushing
+  - Use caution to avoid the spread of the contaminant to unaffected areas (especially from one eye to the other)
+  - If hazardous material involvement is suspected, notify the destination hospital to allow for appropriate decontamination
+- Consider other injuries, including cardiac dysrhythmias
+- Oxygen saturation readings may be falsely elevated in suspected smoke inhalation
+- When considering the total area of a burn, DO NOT include superficial (1st degree) burns
+- For burns > 10%, use only dry sterile dressings or sterile non-adherent dressings, if available, once the burning process has stopped
+- Most burn patients do not need aggressive pre-hospital fluid resuscitation
+- Hypothermia is a significant concern in burn patients
+###ENDPROTOCOL
+
+###PROTOCOL 78
+Eye Injuries (Adult and Pediatric)
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management and appropriate oxygen therapy
+3. Do not apply pressure to the globe of the eye
+4. Loosely bandage both eyes
+5. For non-penetrating foreign object/chemical eye injuries, immediately and continuously flush the affected eye(s) with Normal Saline for a minimum of 20 minutes
+6. For impaled objects to the eye, stabilize the object with bulky dressings and cover both eyes to prevent consensual eye movement
+7. For an avulsed eye:
+  - Do not attempt to replace the eye into the socket
+  - Cover the eye with saline-moistened, sterile dressings
+  - Stabilize dressings with a paper cup or similar object
+CFR STOP
+EMT
+8. Assist the patient with removal of contact lenses as needed
+9. Transport
+EMT STOP
+Paramedic
+10. For chemical eye injuries, administer one of the following medications to assist with irrigation as needed:
+  - OPTION A: Proparacaine 0.5% 1-2 gtts topically in affected eye(s). Repeat as needed
+  - OPTION B: Tetracaine 0.5% 1-2 gtts topically in affected eye(s). Repeat as needed
+Paramedic STOP
+Medical Control Options
+Key Points / Considerations
+###ENDPROTOCOL
+
+###PROTOCOL 79
+Bone and Joint Injuries (Adult and Pediatric)
+CFR and All Provider Levels
+1. Control external bleeding
+2. ABCs and vital signs
+3. Airway management and appropriate oxygen therapy
+4. Assess for shock and treat as needed
+5. Manually stabilize the injury
+6. Cover protruding bones and wounds with dry sterile dressings
+7. Assess for peripheral pulses, motor function, and sensation to the injured extremity
+8. Apply cold pack(s) to closed injury sites
+CFR STOP
+EMT
+9. Immobilize the extremity injury:
+9.1. Assess for peripheral pulses, motor function, and sensation to the injured extremity before and after immobilization
+9.2. Align the extremity by applying gentle manual traction prior to splinting if the distal extremity has ANY of the following conditions: cyanotic, pulseless or if the long bone is severely deformed. If there is increased pain or resistance, ștop and splint extremity in its original position
+9.3. Immobilize an injured joint in its position of function. If unable to move the joint due to increased pain or resistance, splint the joint in its original position
+9.4. Elevate the extremity
+10. For isolated, closed mid-thigh fractures, apply a traction splint as indicated
+11. Stabilize potentially unstable pelvic fractures
+12. Transport
+EMT STOP
+Paramedic
+Paramedic STOP
+Medical Control Options 
+{} EMT and Paramedic
+13. For reduction of a clinically obvious, isolated medial or lateral patella dislocation:
+  - Gradually extend the knee while a second provider simultaneously applies pressure on the patella towards the midline of the knee
+  - Immobilize the lower extremity when the leg is fully extended
+  - If there is increased pain or resistance, splint the joint in its original position
+  - If a patella dislocation is uncertain or if the patient’s body habitus prevents accurate assessment, immobilize the joint in its original position
+Key Points / Considerations
+- Splinting should not delay transport of the critical or unstable patient
+- Depending on the traction splint device used, evaluate for any suspected injuries to the pelvis, knee, lower leg, or ankle on the same side of the injury prior to use
+- Do not attempt to reduce intra-articular or superior patella dislocations
+###ENDPROTOCOL
+
+###PROTOCOL 81
+Head, Neck, and Spine Injuries (Adult and Pediatric)
+CFR and All Provider Levels
+1. Control external bleeding
+2. ABCs and vital signs
+3. Airway management and appropriate oxygen therapy
+4. Cover open neck wounds with an occlusive dressing while ensuring not to bandage completely around the neck
+5. Assess for shock and treat as needed
+6. Perform spinal motion restriction for patients who have a mechanism for spinal injury AND any of the following:
+  - Altered mental status, including intoxication
+  - Distracting injury or unreliable physical exam/history
+  - Neck/spine pain, tenderness or deformity
+  - Weakness, paralysis, numbness or tingling
+  - High risk mechanism of injury
+CFR STOP
+EMT
+7. Transport
+EMT STOP
+Paramedic
+8. Perform advanced airway management as needed
+9. Begin cardiac monitoring
+10. Obtain intravascular access
+Paramedic STOP
+Medical Control Options
+Key Points / Considerations
+- Do not use a nasopharyngeal airway in patients with suspected facial or skull fracures
+- Do not hyperventilate patients when assisting ventilations
+- Do not hyperventilate patients when assisting ventilations as this may worsen outcomes, especially in patients with closed head injuries
+- Patients with isolated, penetrating injuries to the back, chest, abdomen, or pelvis should not have a cervical collar applied
+- Examples of high-risk mechanisms for spinal injury include: ejection from a vehicle or motorcycle, diving injuries, falls > 10 feet, or being struck by a vehicle at high speed
+###ENDPROTOCOL
+
+###PROTOCOL 82
+Carbon Monoxide Poisoning (Adult and Pediatric)
+CFR and All Provider Levels
+1. Ensure that the scene is safe to enter
+2. Remove the patient from the contaminated environment
+3. ABCs and vital signs
+4. Airway management
+5. Administer oxygen via non-rebreather
+6. Assess for shock and treat as needed
+CFR STOP
+EMT
+7. Obtain patient’s carbon monoxide level (SpCO) if available
+8. Transport patients with continuous high concentration oxygen to the closest Hyperbaric Center (Appendix I: Hospital Specialty Capabilities) for ANY of the following conditions:
+  - Asymptomatic patient with SpCO > 25%
+  - Patients with a high index of suspicion for carbon monoxide poisoning AND any of the following symptoms: altered mental status, headache, or syncope
+  - Pregnant patients with SpCO > 15%
+EMT STOP
+Paramedic
+11. Perform advanced airway management as needed
+12. Begin cardiac monitoring
+13. Obtain intravascular access
+Paramedic STOP
+Medical Control Options
+Key Points / Considerations
+- Transport patients with criteria as determined by the General Operating Procedures to the closest appropriate Hyperbaric Center
+- Cyanide poisoning should be considered for patients who have been exposed to smoke from a burning substance in an enclosed space
+- Patients shall be transported with continuous high concentration oxygen even if signs and symptoms of carbon monoxide poisoning resolve
+- Oxygen saturation (SpO2) obtained from pulse oximetry monitoring is not accurate and may be falsely elevated in a patient with carbon monoxide poisoning
+###ENDPROTOCOL
+
+###PROTOCOL 83
+Smoke Inhalation (Adult and Pediatric)
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management
+3. Administer oxygen via non-rebreather
+4. Assess for shock and treat as needed
+5. Treat any burns as needed
+CFR STOP
+EMT
+9. Obtain patient’s carbon monoxide level (SpCO) if available
+10. Request ALS assistance
+11. Transport
+EMT STOP
+Paramedic
+12. Perform advanced airway management as needed
+13. Begin cardiac monitoring
+14. Obtain intravascular access
+15. Treat for cyanide poisoning as needed for patients with ANY of the following conditions:
+  - Cardiac arrest
+  - Respiratory arrest
+  - Altered mental status
+  - Seizures
+  - Hypotension not attributable to obvious causes
+Paramedic STOP
+Medical Control Options
+Key Points / Considerations
+- Cyanide poisoning should be considered for patients who have been exposed to smoke from a burning substance in an enclosed space
+- Patients shall be transported with continuous high concentration oxygen even if signs and symptoms of carbon monoxide poisoning resolve
+###ENDPROTOCOL
+
+###PROTOCOL 84
+Cyanide Poisoning (Adult and Pediatric)
+CRITERIA
+- This protocol is for critical patients with exposure to cyanide
+- A class order is required when operating at a scene with suspected cyanide exposure secondary to weapons of mass destruction (WMD)
+- The class order may be issued by a FDNY OMA Medical Director who is on scene or as relayed through an FDNY OMA Medical Director via online medical control or FDNY Emergency Medical Dispatch
+- The issuance of any class order shall be conveyed to all regional online medical control facilities for relay to units in the field
+- Treatment within the “hot” and “warm” zones is to be performed only by appropriately trained personnel wearing appropriate chemical protective clothing (CPC) as determined by the FDNY Incident Commander
+- If providers encounter a patient who has not been appropriately decontaminated from liquid cyanide, the providers should leave the area immediately until appropriate decontamination has been performed
+CFR and All Provider Levels
+1. ABCs and vital signs
+2. Airway management
+3. Administer oxygen via non-rebreather
+4. Assess for shock and treat as needed
+5. Assess and treat for burns as needed
+CFR STOP
+EMT
+6. Request ALS assistance
+7. Transport
+EMT STOP
+Paramedic
+8. Perform advanced airway management as needed
+9. Begin cardiac monitoring
+10. Obtain at least two sites of intravascular access
+
+11. Administer Hydroxocobalamin and Sodium Thiosulfate, if available, for patients with ANY of the following conditions:
+  - Cardiac arrest
+  - Respiratory arrest
+  - Altered mental status
+  - Seizures
+  - Hypotension not attributable to obvious causes Obtain three blood samples using the tubes provided in the Cyanide Toxicity Kit PRIOR to the administration of Hydroxocobalamin as soon as possible
+11.1. Administer Hydroxocobalamin, if available, as follows:
+    - ADULT: Hydroxocobalamin 5 g IV over 15 minutes. Repeat if patient has persistent symptoms
+    - PEDIATRIC: Hydroxocobalamin 75 mg/kg IV (3 ml/kg of prepared solution) (maximum 5 g) over 15 minutes. Repeat if patient has persistent symptoms
+11.2. Administer Sodium Thiosulfate, if available, as follows:
+    - ADULT: Sodium Thiosulfate 12.5 g IV (150 ml of prepared solution) over 10 minutes
+    - PEDIATRIC: Sodium Thiosulfate 250 mg/kg IV (3 ml/kg of prepared solution) (maximum 12.5 g) over 10 minutes
+Paramedic STOP
+Medical Control Options
+Key Points / Considerations 
+{} Cyanide Toxicity Kit
+[TABLE]
+Item	Quantity
+Hydroxocobalamin 5 g bottle (crystalline powder)	1
+Sodium Thiosulfate 12.5 g bottle (25% solution)	1
+Normal Saline or D5W (100 ml bag) 	3
+20 ml syringe	1
+Three-way stopcock connector	1
+2 ml fluoride oxalate whole blood tube	1
+2 ml K2 EDTA tube	1
+2 ml lithium heparin tube	1
+[/TABLE]
+- Hydroxocobalamin solution is prepared by adding 200 ml of Normal Saline or D5W to Hydroxocobalamin 5 g powder in the bottle provided. The vented macro-drip tubing that accompanies the Cyanide Toxicity Kit should be used to administer the Hydroxocobalamin solution. For an adult dose, use in wide-open position to ensure the correct administration time of approximately 15 minutes
+- Sodium Thiosulfate solution is prepared by adding Sodium Thiosulfate 12.5 g (50 ml) to a 100 ml bag of Normal Saline or D5W
+- In the event that only one intravascular access line is established, administer Hydroxocobalamin BEFORE Sodium Thiosulfate since Sodium Thiosulfate will inactivate Hydroxocobalamin
+- Whenever Hydroxocobalamin is administered, follow with a 20 ml flush of crystalloid fluid prior to administering other medications
+- A class order is a general order given by a FDNY OMA Medical Director to perform a specific intervention or interventions at a specific location(s) during a specified time period. This order is generally reserved for disaster situations
+###ENDPROTOCOL
+
+###PROTOCOL 87
+Weapons of Mass Destruction: Nerve Agent Exposure (Adult and Pediatric)
+CRITERIA
+- A class order issued by the FDNY Office of Medical Affairs is required for the use of this protocol
+- This protocol applies only to 9-1-1 participating units
+- The class order may be issued by a FDNY OMA Medical Director who is on scene or as relayed through an FDNY-OMA Medical Director via online medical control or FDNY Emergency Medical Dispatch
+- The issuance of any class order shall be conveyed to all regional online medical control facilities for relay to units in the field
+- Only providers who are trained and who are wearing appropriate chemical protective clothing (CPC) may operate in the treatment zones as directed by the FDNY Incident Commander:
+  - Hot Zone (Exclusion Zone): FDNY CFR, FDNY HazTac EMTs and Paramedics, FDNY Rescue Paramedics
+  - Warm Zone (Contamination Reduction Zone): FDNY providers
+  - Cold Zone (Support Zone): All EMS providers
+CFR and All Provider Levels
+1. Assign triage tags according to the patient’s signs and symptoms and administer the nerve agent antidote kit (NAAK) auto-injector IM and/or Atropine 0.5 mg auto-injector IM, if available, according to symptom severity and weight as follows:
+[TABLE]
+Tag Color	Signs and Symptoms	Weight (kg)	NAAK (unit)	Atropine auto-injector (mg)
+RED	SLUDGEM AND one of the following: AMS or Respiratory Distress	< 18	1	 
+RED	SLUDGEM AND one of the following: AMS or Respiratory Distress	18-40	2	 
+RED	SLUDGEM AND one of the following: AMS or Respiratory Distress	> 40	3	 
+YELLOW	SLUDGEM OR Respiratory Distress	< 18	0	1
+YELLOW	SLUDGEM OR Respiratory Distress	18-40	1	 
+YELLOW	SLUDGEM OR Respiratory Distress	> 40	2	 
+GREEN	Asymptomatic	 	0	 
+[/TABLE]
+  - If multiple doses of NAAK are required, administer each unit in rapid succession
+  - NAAK refers to either the dual-injector set [Mark-1 (one atropine auto-injector and one pralidoxime auto-injector)] or a single injector containing both medications [DuoDote® (Atropine and Pralidoxime)]
+  - NAAK auto-injectors contain Atropine 2 mg and Pralidoxime 600 mg
+2. Treat patients according to tag color as follows:
+  - Red and Yellow tag patients: do not delay treatment for decontamination
+  - Green tag patients: decontaminate and observe closely
+3. Monitor the patient every 5 minutes
+4. For patients with persistent symptoms of excessive secretions or respiratory distress after initial management, administer Atropine auto-injector IM, if available, according to weight as follows. Repeat Atropine auto-injector IM every 5 minutes as needed
+[TABLE]
+Signs and Symptoms	Weight (kg)	Atropine auto-injector (mg)
+Excessive Secretions or Respiratory Distress	< 18	0.5
+Excessive Secretions or Respiratory Distress	18-40	1
+Excessive Secretions or Respiratory Distress	> 40	2
+[/TABLE]
+CFR STOP
+EMT
+5. Transport
+EMT STOP
+Paramedic
+6. For patients who are actively seizing, administer one of the following:
+[TABLE]
+Weight (kg)	OPTION A: Diazepam	OPTION B: Midazolam
+< 18	• 0.5 mg/kg IM (0.1 ml/kg of a 5 mg/ml concentration) [maximum 5 mg]	• 0.2 mg/kg IM (0.04 ml/kg of a 5 mg/ml concentration) [maximum 3 mg] 
+< 18	• Repeat Diazepam 0.5 mg/kg IM (maximum 5 mg) every 10 minutes as needed (maximum cumulative dose 10 mg)	• Repeat Midazolam 0.15 mg/kg IM (maximum 5 mg) every 10 minutes as needed (maximum cumulative dose 10 mg)
+18-40	• 0.5 mg/kg IM (0.1 ml/kg of a 5 mg/ml concentration) [maximum 10 mg]	• 0.2 mg/kg IM (0.04 ml/kg of a 5 mg/ml concentration) [maximum 5 mg]
+18-40	• Repeat Diazepam 0.5 mg/kg IM (maximum 10 mg) every 10 minutes as needed (maximum cumulative dose 30 mg)	• Repeat Midazolam 0.15 mg/kg IM (maximum 5 mg) every 10 minutes as needed (maximum cumulative dose 20 mg)
+> 40	• 10 mg auto-injector IM	• 5 mg IM (1ml of a 5 mg/ml concentration)
+> 40	• Repeat Diazepam 10 mg auto-injector IM every 10 minutes as needed (maximum cumulative dose 30 mg)	• Repeat Midazolam 5 mg IM every 10 minutes as needed (maximum cumulative dose 20 mg)
+[/TABLE]
+Paramedic STOP
+Medical Control Options 
+{} FDNY OMA Response Physician Medical Control Options
+7. Administer additional dosing of any standing order medication
+Key Points / Considerations
+- Symptoms for nerve agent exposure are described using the acronym SLUDGEM:
+  - Salivation
+  - Lacrimation
+  - Urination
+  - Defecation/diarrhea
+  - Gastrointestinal upset
+  - Emesis
+  - Miosis/muscle twitching
+- Any discretionary orders or medical control options MUST be approved by the FDNY OMA Response Physician
+- The goal of treatment for patients is the drying of secretions and resolution of other symptoms
+- Diazepam is the medication of choice when treating a patient with seizures secondary to nerve agent exposure
+- Do not administer more than 3 NAAK units to any patient
+- Asymptomatic patients do not require treatment
+- Record the number and/or amount of Atropine, NAAK, and benzodiazepines administered on the patient’s triage tag
+- Victims whose skin or clothing is contaminated with liquid nerve agent can contaminate rescuers by direct contact or through off-gassing vapor
+- Victims who have ingested nerve agents may off-gas dangerous levels of vapor, including from vomit if ingested, even after skin decontamination
+###ENDPROTOCOL

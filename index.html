@@ -1,0 +1,1325 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <title>NYC REMAC Protocol Flashcards</title>
+  <style>
+    :root{
+      
+      --chunkFont:18px;--bg:#cfd8e3;
+      --card:#ffffff;
+      --text:#111827;
+      --accent:#1d4ed8;
+      --accent2:#0f766e;
+      --border:rgba(17,24,39,.18);
+      --shadow: 0 10px 30px rgba(17,24,39,.10);
+      --radius:16px;
+      --max: 960px;
+    }
+    *{box-sizing:border-box}
+    body{margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji"; background:var(--bg); color:var(--text); font-size:17px;}
+    header{
+      padding:16px 16px 0;
+      max-width:var(--max);
+      margin:0 auto;
+    }
+    h1{
+      margin: 12px 0 6px;
+      font-size: clamp(18px, 3.8vw, 28px);
+      letter-spacing:.2px;
+    }
+    p.sub{color:var(--text); margin:0; font-size:1rem; line-height:1.5}
+
+    .wrap{
+      max-width:var(--max);
+      margin:0 auto;
+      padding: 12px 16px 120px;
+    }
+    .panel{
+      background: rgba(18,24,38,.72);
+      border:1px solid var(--border);
+      box-shadow: var(--shadow);
+      border-radius: var(--radius);
+      overflow:hidden;
+    }
+    .panel-top{
+      padding: 14px 14px 0;
+      display:flex;
+      gap:10px;
+      align-items:center;
+      flex-wrap:wrap;
+    }
+    .pill{
+      border:1px solid var(--border);
+      color:var(--text);
+      padding:8px 10px;
+      border-radius:999px;
+      font-size:13px;
+      display:flex;
+      gap:8px;
+      align-items:center;
+      background: rgba(0,0,0,.18);
+    }
+    .search{
+      flex:1;
+      min-width: 200px;
+      display:flex;
+      gap:8px;
+      align-items:center;
+      border:1px solid var(--border);
+      background: rgba(0,0,0,.18);
+      border-radius:999px;
+      padding: 8px 12px;
+    }
+    .search input{
+      width:100%;
+      background:transparent;
+      border:none;
+      outline:none;
+      color:var(--text);
+      font-size:14px;
+    }
+    .list{
+      padding: 10px 10px 14px;
+      max-height: 64vh;
+      overflow:auto;
+      -webkit-overflow-scrolling: touch;
+    }
+    .row{
+      display:flex;
+      align-items:flex-start;
+      gap:12px;
+      padding: 12px 10px;
+      border-radius: 12px;
+      border:1px solid transparent;
+    }
+    .row:hover{ background: rgba(255,255,255,.03); border-color: rgba(255,255,255,.06); }
+    .row input[type="checkbox"]{
+      margin-top:2px;
+      width:20px; height:20px;
+      accent-color: var(--accent);
+      flex: 0 0 auto;
+    }
+    .row label{
+      cursor:pointer;
+      line-height:1.25;
+      font-size: 15px;
+      flex:1;
+      user-select:none;
+    }
+
+    /* bottom bar */
+    .bottom-bar{
+      position: fixed;
+      left:0; right:0; bottom:0;
+      padding: 12px 16px;
+      background: linear-gradient(to top, rgba(11,15,20,.98), rgba(11,15,20,.78));
+      border-top: 1px solid rgba(255,255,255,.08);
+      backdrop-filter: blur(10px);
+    }
+    .bottom-inner{
+      max-width: var(--max);
+      margin: 0 auto;
+      display:flex;
+      gap:10px;
+      align-items:center;
+      justify-content:space-between;
+      flex-wrap:wrap;
+    }
+    .btn{appearance:none; border:2px solid rgba(17,24,39,.35); background:var(--accent); color:#fff; padding:12px 14px; border-radius:14px; font-weight:700; cursor:pointer; font-size:1rem; line-height:1; box-shadow:0 2px 0 rgba(17,24,39,.08); touch-action:manipulation; -webkit-user-select:none; user-select:none;}
+    .btn:disabled{
+      opacity:.5;
+      cursor:not-allowed;
+    }
+    .btn.secondary{background:#fff; color:var(--text); border:2px solid rgba(17,24,39,.35)}
+
+    .btn.big{padding:16px 22px; font-size:1.15rem; border-radius:16px; min-width:180px}
+    .btn.ghost{
+      background: rgba(255,255,255,.06);
+      color: var(--text);
+      border: 1px solid rgba(255,255,255,.10);
+      min-width: 140px;
+    }
+    .meta{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      color:var(--text);
+      font-size: 13px;
+      flex-wrap:wrap;
+    }
+
+    /* toggle switch */
+    .toggle{
+      display:flex; align-items:center; gap:10px;
+      padding: 10px 12px;
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 999px;
+      background: rgba(255,255,255,.06);
+    }
+    .toggle input{
+      appearance:none;
+      width:44px; height:26px;
+      border-radius:999px;
+      background: rgba(255,255,255,.18);
+      border:1px solid rgba(255,255,255,.18);
+      position:relative;
+      outline:none;
+      cursor:pointer;
+      flex: 0 0 auto;
+    }
+    .toggle input::after{
+      content:"";
+      position:absolute;
+      top:3px; left:3px;
+      width:20px; height:20px;
+      border-radius:50%;
+      background: white;
+      opacity:.92;
+      transition: transform .18s ease;
+    }
+    .toggle input:checked{
+      background: rgba(34,197,94,.35);
+      border-color: rgba(34,197,94,.45);
+    }
+    .toggle input:checked::after{
+      transform: translateX(18px);
+    }
+    .toggle span{
+      font-size:13px;
+      color: var(--text);
+      white-space:nowrap;
+    }
+
+    /* game view */
+    .game{
+      display:none;
+    }
+    .game .card{
+      background: rgba(18,24,38,.72);
+      border:1px solid var(--border);
+      box-shadow: var(--shadow);
+      border-radius: var(--radius);
+      padding: 14px;
+      overflow:hidden;
+    }
+    .game h2{
+      margin: 0 0 6px;
+      font-size: clamp(18px, 4.2vw, 26px);
+    }
+    .game p{
+      margin: 0 0 14px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .pdfbox{
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 14px;
+      overflow:hidden;
+      background: rgba(0,0,0,.2);
+      display:none;
+    }
+    iframe{
+      width:100%;
+      height: 70vh;
+      border:0;
+    }
+    .game-controls{
+      display:flex;
+      gap:10px;
+      justify-content:space-between;
+      flex-wrap:wrap;
+      margin-top: 12px;
+      align-items:center;
+    }
+    .game-controls{
+      position: sticky;
+      bottom: 0;
+      background: rgba(225,230,238,.92);
+      border-top: 1px solid var(--border);
+      padding: 10px 12px 12px;
+      backdrop-filter: blur(10px);
+      z-index: 9999;
+      margin-top: 14px;
+      border-radius: 14px;
+    }
+
+    .dock{
+      display:grid;
+      grid-template-columns: 1fr auto 1fr;
+      align-items:center;
+      gap: 10px;
+      margin-top: 10px;
+    }
+    .dock-left{display:flex; justify-content:flex-start; gap:10px; flex-wrap:wrap}
+    .dock-center{display:flex; justify-content:center}
+    .dock-right{display:flex; justify-content:flex-end; gap:10px; flex-wrap:wrap}
+
+    .progress{font-weight:800; color:var(--text)}
+    .toast{
+      position: fixed;
+      top: 12px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: rgba(0,0,0,.65);
+      border: 1px solid rgba(255,255,255,.12);
+      padding: 10px 12px;
+      border-radius: 999px;
+      font-size: 13px;
+      color: var(--text);
+      display:none;
+      max-width: calc(100vw - 24px);
+      text-align:center;
+      backdrop-filter: blur(10px);
+      z-index: 9999;
+    }
+
+    .controls-right{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+      justify-content:flex-end;
+    }
+  
+    .chunkbox{
+      margin-top: 14px;
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 14px;
+      background: rgba(0,0,0,.2);
+      padding: 14px;
+      white-space: pre-wrap;
+      line-height: 1.35;
+      font-size: 15px;
+      min-height: 160px;
+    }
+    .answerbox{
+      margin-top: 12px;
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 14px;
+      overflow:auto;
+      background: rgba(0,0,0,.2);
+      display:none;
+      max-height: 60vh;
+    }
+    .answerbox pre{
+      margin:0;
+      padding: 14px;
+      white-space: pre-wrap;
+      color: var(--text);
+      font-size: 13px;
+      line-height: 1.35;
+    }
+
+  
+    /* --- Quiz display overrides (text-based protocols) --- */
+    .chunkbox{
+      background:#ffffff !important;
+      color:#000000 !important;
+      border:1px solid rgba(0,0,0,.12);
+    }
+    .chunkbox .chunk{
+      padding:12px 12px;
+      border-bottom:1px solid rgba(0,0,0,.08);
+      white-space:pre-wrap;
+      line-height:1.35;
+      font-size:17px;
+    }
+    .chunkbox .chunk:last-child{ border-bottom:none; }
+    .chunk.subnum{ margin-left:18px; }
+
+    
+    /* Enforce uniform font size for ALL loaded chunk content */
+    .chunkbox, .chunkbox *{ font-size: var(--chunkFont) !important; }
+.chunkbox .intro-hint{ font-weight:700; }
+    .chunkbox .chunk p{ margin:6px 0; }
+    .chunkbox .chunk pre{
+      margin:6px 0;
+      white-space:pre;
+      overflow:auto;
+      padding:10px;
+      border:1px solid rgba(0,0,0,.12);
+      background:#fff;
+      color:#000;
+      border-radius:10px;
+    }
+    .section-strip{
+      padding:10px 12px;
+      font-weight:800;
+      color:#ffffff;
+      width:100%;
+      border-bottom:1px solid rgba(0,0,0,.15);
+    }
+    .section-black{ background:#000000; }
+    .section-red{ background:#dc2626; }
+    .section-orange{ background:#f97316; }
+    .section-blue{ background:#2563eb; }
+    .section-purple{ background:#7c3aed; }
+
+    .stop-line{
+      color:#dc2626;
+      font-weight:900;
+      white-space:pre-wrap;
+    }
+
+    .chunk ul{ margin:6px 0 6px 22px; padding:0; }
+.chunk li{ margin:4px 0; }
+
+
+    /* bullet indentation normalization */
+    .chunk ul.flat-bullets{ margin:6px 0 6px 44px; padding:0; }
+    .chunk ul.flat-bullets li{ margin:4px 0; }
+    .chunk ul.flat-bullets li.bullet-i2{ margin-left:0; }
+    .chunk ul.flat-bullets li.bullet-i3{ margin-left:22px; }
+    .chunk ul.flat-bullets li.bullet-i4{ margin-left:44px; }
+
+    /* {Section} lines: black bold text, no color strip */
+    .brace-section{
+      font-weight:900;
+      color:#000000;
+      padding:10px 12px;
+      border-bottom:1px solid rgba(0,0,0,.08);
+      white-space:pre-wrap;
+    }
+
+
+  
+    body{margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji"; background:var(--bg); color:var(--text); font-size:17px;}
+    .muted, .progress, .hint, .subtle{color:var(--text)!important;}
+    .chunkbox{background:#fff; color:#000; border:1px solid var(--border);}
+    .chunkbox .chunk{color:#000;}
+    .section-strip{color:#fff; font-weight:700; letter-spacing:.2px;}
+    .section-strip.black{background:#111827;}
+    .section-strip.red{background:#dc2626;}
+    .section-strip.orange{background:#f97316;}
+    .section-strip.blue{background:#2563eb;}
+    .section-strip.purple{background:#7c3aed;}
+    .stop-line{color:#dc2626; font-weight:800;}
+    /* make controls always visible at bottom */
+    .game-controls{
+      position:fixed;
+      left:0; right:0; bottom:0;
+      background:rgba(245,247,251,.92);
+      backdrop-filter:saturate(180%) blur(10px);
+      border-top:1px solid var(--border);
+      z-index:50;
+      padding:12px 14px;
+    }
+    .wrap{padding-bottom:96px;}
+    .controls-right{display:flex; gap:10px; flex-wrap:wrap; justify-content:flex-end;}
+    .progress{font-weight:800; color:var(--text)}
+    /* mobile friendliness */
+    @media (max-width: 640px){
+      .card{padding:14px;}
+      #cardTitle{font-size:20px;}
+      .game-controls{padding:10px 12px;}
+      .controls-right{justify-content:space-between;}
+      .btn{appearance:none; border:2px solid rgba(17,24,39,.35); background:var(--accent); color:#fff; padding:12px 14px; border-radius:14px; font-weight:700; cursor:pointer; font-size:1rem; line-height:1; box-shadow:0 2px 0 rgba(17,24,39,.08)}
+      .progress{font-weight:800; color:var(--text)}
+      .game-controls{display:flex; flex-wrap:wrap; gap:10px; align-items:center;}
+    }
+        .table-wrap{overflow:auto; -webkit-overflow-scrolling:touch; border:1px solid var(--border); border-radius:12px; background:#fff;}
+    table.protocol{border-collapse:collapse; width:100%; min-width:520px;}
+    table.protocol td, table.protocol th{border:1px solid var(--border); padding:8px 10px; vertical-align:top; color:var(--text); font-size:1rem}
+    table.protocol th{font-weight:800; background:rgba(15,23,42,.04);}
+
+
+    /* ---- User requested text color adjustments (do not change global backgrounds) ---- */
+    #selectView, #selectView h1, #selectView .sub,
+    #selectView .pill, #selectView .search span, #selectView .row label,
+    #selectView .meta { color: #ffffff !important; }
+    #selectView .search input { color:#ffffff !important; }
+    #selectView .search input::placeholder{ color: rgba(255,255,255,.75); }
+    #selectView .row:hover{ background: rgba(255,255,255,.06); border-color: rgba(255,255,255,.10); }
+
+    /* make protocol title and intro text white in game header (chunk box stays black on white) */
+    #cardTitle { color:#ffffff !important; }
+    #gameView header .sub{ font-size: 20px !important; font-weight: 800; }
+
+
+    /* ---- Narrow black text overrides requested ---- */
+/* ONLY the specified header lines should be black */
+#selectView header h1, #selectView header .sub{ color:#000000 !important; }
+#gameView header h1, #gameView header .sub{ color:#000000 !important; }
+</style>
+</head>
+
+<body>
+  <div class="toast" id="toast"></div>
+
+  <!-- SELECT VIEW -->
+  <div id="selectView">
+    <header>
+      <h1>NYC REMAC Protocol Flashcards</h1>
+      <p class="sub">Select protocols to study, then tap <b>Start</b>.</p>
+    </header>
+
+    <div class="wrap">
+      <div class="panel">
+        <div class="panel-top">
+          <div class="pill" id="countPill">Selected: 0</div>
+          <div class="pill" id="totalPill">Total: 0</div>
+          <div class="search" title="Filter protocols">
+            <span style="color:var(--text);font-size:14px;">🔎</span>
+            <input id="filterInput" type="text" placeholder="Filter (e.g., stroke, airway, pediatric)..." />
+          </div>
+        </div>
+
+        <div class="list" id="protocolList"></div>
+      </div>
+    </div>
+
+    <div class="bottom-bar">
+      <div class="bottom-inner">
+        <div class="meta">
+          <button class="btn secondary" id="selectNoneBtn" type="button">Select none</button>
+        </div>
+
+        <div class="controls-right">
+          <button class="btn secondary" id="selectAllBtn" type="button">Select all</button>
+          <button class="btn" id="startBtn" type="button" disabled>Start</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- GAME VIEW -->
+  <div id="gameView" class="game">
+    <header>
+      <h1>Flashcard Mode</h1>
+</header>
+
+    <div class="wrap">
+      <div class="card">
+        <h2 id="cardTitle">Protocol</h2>
+
+        <div class="game-controls">
+          <div class="progress" id="progressText">0 / 0</div>
+
+          <div class="dock">
+            <div class="dock-left">
+              <button class="btn big" id="nextBtn" type="button">Next line</button>
+            </div>
+
+            <div class="dock-center">
+              <button class="btn secondary" id="backBtn" type="button">Return home</button>
+            </div>
+
+            <div class="dock-right">
+              <button class="btn secondary" id="loadAllBtn" type="button">Load All</button>
+              <button class="btn secondary" id="skipBtn" type="button">Skip protocol</button>
+            </div>
+          </div>
+</div>
+
+        <div class="chunkbox" id="chunkBox" aria-live="polite"></div>
+</div>
+    </div>
+  </div>
+
+<script>
+(function(){
+  // ---------- DATA ----------
+  const protocols = [
+    { n: 2,  name: "Non-Traumatic Cardiac Arrest (Adult)" },
+    { n: 4,  name: "Non-Traumatic Cardiac Arrest (Pediatric)" },
+    { n: 6,  name: "Severe Bradycardia (Pediatric)" },
+    { n: 8,  name: "Obstructed Airway (Adult and Pediatric)" },
+    { n: 9,  name: "Respiratory Distress / Respiratory Failure (Adult)" },
+    { n: 11, name: "Respiratory Distress / Respiratory Failure (Pediatric)" },
+    { n: 13, name: "Altered Mental Status (Adult and Pediatric)" },
+    { n: 15, name: "Anaphylaxis / Severe Allergic Reaction (Adult and Pediatric)" },
+    { n: 18, name: "Behavioral Emergencies (Adult and Pediatric)" },
+    { n: 21, name: "Acute Coronary Syndrome / Suspected Myocardial Infarction / Chest Pain (Adult)" },
+    { n: 22, name: "Dysrhythmia (Adult)" },
+    { n: 24, name: "Atrial Fibrillation / Atrial Flutter (Adult)" },
+    { n: 25, name: "Brady-Dysrhythmia (Adult)" },
+    { n: 26, name: "Supraventricular Tachycardia (Adult)" },
+    { n: 27, name: "Ventricular Tachycardia with a Pulse (Adult)" },
+    { n: 28, name: "Dysrhythmia (Pediatric)" },
+    { n: 30, name: "Obstetric Emergencies" },
+    { n: 31, name: "Emergency Childbirth" },
+    { n: 34, name: "Neonatal Care / Resuscitation" },
+    { n: 37, name: "Asthma / COPD / Wheezing (Adult and Pediatric)" },
+    { n: 40, name: "Stridor / Croup / Epiglottitis (Pediatric)" },
+    { n: 42, name: "Heat Emergencies (Adult and Pediatric)" },
+    { n: 43, name: "Cold Emergencies (Adult and Pediatric)" },
+    { n: 45, name: "Poisoning (Adult and Pediatric)" },
+    { n: 47, name: "Overdose (Adult and Pediatric)" },
+    { n: 50, name: "Seizures (Adult and Pediatric)" },
+    { n: 52, name: "Severe Sepsis and Septic Shock (Adult and Pediatric)" },
+    { n: 54, name: "Shock (Adult)" },
+    { n: 56, name: "Stroke [Cerebrovascular Accident (CVA)] (Adult and Pediatric)" },
+    { n: 58, name: "Severe Nausea / Severe Vomiting (Adult and Pediatric)" },
+    { n: 59, name: "Hyperglycemia (Adult and Pediatric)" },
+    { n: 60, name: "Decompression Sickness (Adult and Pediatric)" },
+    { n: 61, name: "General Pain Management (Adult and Pediatric)" },
+    { n: 63, name: "Procedural Sedation / Sedation for Advanced Airway Management (Adult and Pediatric)" },
+    { n: 66, name: "Vaccine Administration (Adult and Pediatric)" },
+    { n: 68, name: "General Trauma Care (Adult and Pediatric)" },
+    { n: 70, name: "Traumatic Cardiac Arrest (Adult and Pediatric)" },
+    { n: 72, name: "Amputation (Adult and Pediatric)" },
+    { n: 73, name: "Avulsed Tooth (Adult and Pediatric)" },
+    { n: 74, name: "Bleeding / Hemorrhage Control (Adult and Pediatric)" },
+    { n: 76, name: "Burns (Adult and Pediatric)" },
+    { n: 78, name: "Eye Injuries (Adult and Pediatric)" },
+    { n: 79, name: "Bone and Joint Injuries (Adult and Pediatric)" },
+    { n: 81, name: "Head, Neck and Spine Injuries (Adult and Pediatric)" },
+    { n: 82, name: "Carbon Monoxide Poisoning (Adult and Pediatric)" },
+    { n: 83, name: "Smoke Inhalation (Adult and Pediatric)" },
+    { n: 84, name: "Cyanide Poisoning (Adult and Pediatric)" },
+    { n: 87, name: "Weapons of Mass Destruction: Nerve Agent Exposure (Adult and Pediatric)" },
+  ];
+
+  // ---------- COMBINED TEXT (single file) ----------
+  const COMBINED_FILE = "protocols.txt";
+  let combinedLoaded = false;
+  const combinedMap = new Map(); // num -> raw protocol text
+
+  function parseCombinedProtocols(allText){
+    // Format:
+    // ###PROTOCOL 2
+    // <content>
+    // ###ENDPROTOCOL
+    const lines = allText.replace(/\r/g,"").split("\n");
+    let curNum = null;
+    let buf = [];
+    function flush(){
+      if(curNum !== null){
+        combinedMap.set(curNum, buf.join("\n").trimEnd());
+      }
+      curNum = null;
+      buf = [];
+    }
+    for(const line of lines){
+      const mStart = line.match(/^###\s*PROTOCOL\s+(\d+)\s*$/i);
+      if(mStart){
+        flush();
+        curNum = Number(mStart[1]);
+        continue;
+      }
+      const mEnd = line.match(/^###\s*ENDPROTOCOL\s*$/i);
+      if(mEnd){
+        flush();
+        continue;
+      }
+      if(curNum !== null){
+        buf.push(line);
+      }
+    }
+    flush();
+  }
+
+  async function ensureCombinedLoaded(){
+    if(combinedLoaded) return;
+    const res = await fetch(COMBINED_FILE, {cache:"no-store"});
+    if(!res.ok){
+      throw new Error(`Missing ${COMBINED_FILE}`);
+    }
+    const allText = await res.text();
+    parseCombinedProtocols(allText);
+    combinedLoaded = true;
+  }
+
+
+  // ---------- COOKIE HELPERS ----------
+  function setCookie(name, value, days=365) {
+    const expires = new Date(Date.now() + days*864e5).toUTCString();
+    document.cookie = `${encodeURIComponent(name)}=${encodeURIComponent(value)}; expires=${expires}; path=/; SameSite=Lax`;
+  }
+  function getCookie(name) {
+    const key = encodeURIComponent(name) + "=";
+    return document.cookie.split("; ").reduce((acc, part) => {
+      if (part.indexOf(key) === 0) return decodeURIComponent(part.slice(key.length));
+      return acc;
+    }, "");
+  }
+
+  const COOKIE_SELECTED = "remsc_protocol_selected";
+
+  function parseSelectionCookie(value){
+    if(!value) return new Set();
+    try{
+      const arr = JSON.parse(value);
+      if(!Array.isArray(arr)) return new Set();
+      return new Set(arr.map(String));
+    }catch{
+      return new Set();
+    }
+  }
+
+  // ---------- UI ----------
+  const selectView = document.getElementById("selectView");
+  const gameView   = document.getElementById("gameView");
+
+  const protocolList = document.getElementById("protocolList");
+  const filterInput  = document.getElementById("filterInput");
+
+  const countPill = document.getElementById("countPill");
+  const totalPill = document.getElementById("totalPill");
+
+  const startBtn = document.getElementById("startBtn");
+  const selectAllBtn = document.getElementById("selectAllBtn");
+  const selectNoneBtn = document.getElementById("selectNoneBtn");
+
+  const cardTitle = document.getElementById("cardTitle");
+  const chunkBox  = document.getElementById("chunkBox");
+  const progressText = document.getElementById("progressText");
+  const nextBtn = document.getElementById("nextBtn");
+  const loadAllBtn = document.getElementById("loadAllBtn");
+  const skipBtn = document.getElementById("skipBtn");
+  const backBtn = document.getElementById("backBtn");
+  const toast = document.getElementById("toast");
+
+  totalPill.textContent = `Total: ${protocols.length}`;
+
+  // ---------- STATE ----------
+  let selected = new Set(); // numbers as strings
+  let deck = [];
+  let idx = 0;
+  let currentChunks = [];
+  let chunkIdx = 0;
+
+  function showToast(msg){
+    toast.textContent = msg;
+    toast.style.display = "block";
+    clearTimeout(showToast._t);
+    showToast._t = setTimeout(()=> toast.style.display="none", 1400);
+  }
+
+  function saveSelection(){
+    setCookie(COOKIE_SELECTED, JSON.stringify(Array.from(selected)));
+  }
+
+  function loadSelection(){
+    selected = parseSelectionCookie(getCookie(COOKIE_SELECTED));
+  }
+
+  function updateCounts(){
+    countPill.textContent = `Selected: ${selected.size}`;
+    startBtn.disabled = selected.size === 0;
+    selectNoneBtn.disabled = selected.size === 0;
+  }
+
+  function buildList(){
+    const q = (filterInput.value || "").trim().toLowerCase();
+    protocolList.innerHTML = "";
+
+    protocols.forEach((p) => {
+      const match = !q || p.name.toLowerCase().includes(q) || String(p.n).includes(q);
+      if(!match) return;
+
+      const id = `p_${p.n}`;
+      const row = document.createElement("div");
+      row.className = "row";
+
+      const cb = document.createElement("input");
+      cb.type = "checkbox";
+      cb.id = id;
+      cb.dataset.num = String(p.n);
+      cb.checked = selected.has(String(p.n));
+
+      const lab = document.createElement("label");
+      lab.setAttribute("for", id);
+      lab.textContent = p.name;
+
+      cb.addEventListener("change", () => {
+        const num = cb.dataset.num;
+        if(cb.checked) selected.add(num);
+        else selected.delete(num);
+        saveSelection();
+        updateCounts();
+      });
+
+      row.appendChild(cb);
+      row.appendChild(lab);
+      protocolList.appendChild(row);
+    });
+
+    updateCounts();
+  }
+
+  filterInput.addEventListener("input", buildList);
+
+  selectAllBtn.addEventListener("click", () => {
+    selected = new Set(protocols.map(p => String(p.n)));
+    saveSelection();
+    // update visible checkboxes
+    protocolList.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.checked = true);
+    updateCounts();
+    showToast("Selected all");
+  });
+
+  selectNoneBtn.addEventListener("click", () => {
+    selected = new Set();
+    saveSelection();
+    protocolList.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.checked = false);
+    updateCounts();
+    showToast("Selected none");
+  });
+
+  // ---------- GAME ----------
+  function shuffle(arr){
+    for(let i=arr.length-1;i>0;i--){
+      const j = Math.floor(Math.random()*(i+1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
+
+  function startGame(){
+    if(selected.size === 0){
+      showToast("Select at least one protocol first");
+      return;
+    }
+
+    const pickedNums = Array.from(selected).map(Number);
+    deck = protocols.filter(p => pickedNums.includes(p.n));
+    shuffle(deck);
+    idx = 0;
+
+    selectView.style.display = "none";
+    gameView.style.display = "block";
+    adjustDockPadding();
+    loadCard();
+  }
+
+  async function fetchProtocolText(num){
+    // All protocols are stored inside protocols.txt (loaded once).
+    await ensureCombinedLoaded();
+    const t = combinedMap.get(Number(num));
+    if(!t){
+      throw new Error(`Protocol ${num} not found in ${COMBINED_FILE}`);
+    }
+    return t;
+  }
+
+  
+  function normalizeHeader(s){
+    return (s||"").trim().replace(/\s+/g," ");
+  }
+
+  function sectionClass(name){
+    const t = normalizeHeader(name).toLowerCase();
+    if(t === "cfr and all provider levels" || t === "cfr") return "section-red";
+    if(t === "emt") return "section-orange";
+    if(t === "paramedic") return "section-blue";
+    if(t === "medical control options" || t.includes("medical control")) return "section-purple";
+    if(t === "key points / considerations" || t === "criteria" || t === "introduction") return "section-black";
+    return "section-black";
+  }
+
+  function looksLikeSectionHeader(line){
+    const s = normalizeHeader(line);
+    if(!s) return false;
+
+    const known = new Set([
+      "INTRODUCTION",
+      "CRITERIA",
+      "Key Points / Considerations",
+      "CFR and All Provider Levels",
+      "CFR",
+      "EMT",
+      "Paramedic",
+      "Medical Control Options",
+      "FDNY OMA Response Physician Medical Control Options",
+    ]);
+    if(known.has(s)) return true;
+
+    const letters = s.replace(/[^A-Za-z]/g,"");
+    if(letters && letters.length <= 40){
+      const upper = letters.replace(/[^A-Z]/g,"").length;
+      if(upper / letters.length > 0.75 && s.length <= 45) return true;
+    }
+    return false;
+  }
+
+  
+  function parseAllChunks(raw){
+    const lines = raw.replace(/\r/g,"").split("\n").map(l=>l.replace(/\s+$/,""));
+    const out = [];
+    let i = 0;
+
+    // Chunk start criteria:
+    // - numbered points: "2." or sub-numbered: "2.1", "15.2.3", optionally trailing dot, with optional spaces after
+    // - bullets (including sub-bullets): "-" with optional leading spaces
+    const reNumber = /^\d+(?:\.\d+)*\.\s+\S/;            // 2. abc
+    const reSubNum = /^\d+(?:\.\d+)+\.?\s+\S/;          // 2.1 def, 15.2.3 ghi, 3.4 jkl
+    const reAnyNum = /^\d+(?:\.\d+)*\.?\s+\S/;          // catch-all for numbered/sub-numbered
+    const reBullet = /^\s*-\s+\S/;
+
+    function push(kind, text){
+      const t = (text||"").replace(/\s+$/,"").trimEnd();
+      if(!t) return;
+      out.push({kind, text:t});
+    }
+
+    function isBoilerplate(line){
+      if(!line) return false;
+      if(/THE REGIONAL EMERGENCY MEDICAL SERVICES COUNCIL/i.test(line)) return true;
+      if(/Regional Emergency Medical Advisory Committee/i.test(line)) return true;
+      if(/^2024-02\s+Page\s+\d+$/i.test(line)) return true;
+      if(/^Page\s+\d+$/i.test(line)) return true;
+      return false;
+    }
+
+    function isBraceSection(line){
+      const t = (line||"").trimEnd();
+      // Matches lines like "{} Paramedic"
+      return /^\{\}\s+\S/.test(t);
+    }
+    function stripBraceSection(line){
+      return (line||"").replace(/^\s*\{\}\s*/,"").trim();
+    }
+
+    function isChunkStart(rawLine){
+      const t = (rawLine||"").trim();
+      if(!t) return false;
+      if(t === "[TABLE]") return true;
+      if(/\bSTOP\b/i.test(t)) return true;
+      if(looksLikeSectionHeader(t)) return true;
+      if(isBraceSection(t)) return true;
+      if(reBullet.test(rawLine)) return true;                 // keep rawLine for indent-sensitive bullet detection
+      if(reSubNum.test(t) || reNumber.test(t) || reAnyNum.test(t)) return true;
+      return false;
+    }
+
+    function collectContinuation(buf){
+      // Collect wrapped lines that belong to the current chunk.
+      // Stop when a new chunk start appears.
+      i++;
+      while(i < lines.length){
+        const ln = lines[i];
+        const t = (ln||"").trim();
+        if(!t){ i++; continue; }
+        if(isBoilerplate(t)){ i++; continue; }
+        if(isChunkStart(ln)) break;
+        buf.push(ln.trimEnd());
+        i++;
+      }
+      return buf;
+    }
+
+    while(i < lines.length){
+      const rawLine = lines[i];
+      const line = (rawLine||"").trim();
+      if(!line){ i++; continue; }
+      if(isBoilerplate(line)){ i++; continue; }
+
+      // Table block
+      if(line === "[TABLE]"){
+        const buf = [];
+        i++;
+        while(i < lines.length && lines[i].trim() !== "[/TABLE]"){
+          const t = (lines[i]||"").trim();
+          if(!t){ i++; continue; }
+          if(isBoilerplate(t)){ i++; continue; }
+          buf.push(lines[i]);
+          i++;
+        }
+        if(i < lines.length && lines[i].trim() === "[/TABLE]") i++;
+        push("table", buf.join("\n").trim());
+        continue;
+      }
+
+      // {Section} line (black bold, no strip)
+      if(isBraceSection(rawLine)){
+        push("brace", stripBraceSection(rawLine));
+        i++;
+        continue;
+      }
+
+      // STOP line (no strip)
+      if(/\bSTOP\b/i.test(line)){
+        push("stop", line);
+        i++;
+        continue;
+      }
+
+      // Section header strip
+      if(looksLikeSectionHeader(line)){
+        push("section", line);
+        i++;
+        continue;
+      }
+
+      // Bullet chunk (including sub-bullets with indentation)
+      if(reBullet.test(rawLine)){
+        const buf = [rawLine.trimEnd()];
+        collectContinuation(buf);
+        push("list", buf.join("\n").trimEnd());
+        continue;
+      }
+
+      // Numbered / sub-numbered chunk (2., 2.1, 15.2.3, etc.)
+      if(reSubNum.test(line) || reNumber.test(line) || reAnyNum.test(line)){
+        const buf = [rawLine.trimEnd()];
+        collectContinuation(buf);
+        push("text", buf.join("\n").trimEnd());
+        continue;
+      }
+
+      // Fallback: treat as paragraph chunk, but still collect wrapped lines
+      const buf = [rawLine.trimEnd()];
+      collectContinuation(buf);
+      push("text", buf.join("\n").trimEnd());
+    }
+
+    return out;
+  }
+function renderTableBlock(text){
+    const lines = text.replace(/\r/g,"").split("\n").filter(l=>l.trim()!=="");
+    const wrap = document.createElement("div");
+    wrap.className = "table-wrap";
+    const table = document.createElement("table");
+    table.className = "protocol";
+    const tbody = document.createElement("tbody");
+
+    const hasTabs = lines.some(l=>l.includes("\t"));
+    for(const ln of lines){
+      const row = document.createElement("tr");
+      let cells;
+      if(hasTabs){
+        cells = ln.split("\t");
+      }else{
+        cells = ln.split(/\s{2,}/);
+      }
+      cells = cells.map(c=>c.trim());
+      while(cells.length && cells[cells.length-1]==="") cells.pop();
+
+      if(cells.length<=1){
+        const td = document.createElement("td");
+        td.colSpan = 12;
+        td.textContent = (cells[0]||ln).trim();
+        row.appendChild(td);
+        tbody.appendChild(row);
+        continue;
+      }
+
+      for(const c of cells){
+        const td = document.createElement("td");
+        td.textContent = c;
+        row.appendChild(td);
+      }
+      tbody.appendChild(row);
+    }
+    table.appendChild(tbody);
+    wrap.appendChild(table);
+    return wrap;
+  }
+
+
+  function renderListBlock(text){
+  // Normalize bullets to a single bullet marker.
+  // Indentation rules based on leading spaces before '-':
+  //   "-" or " -"        => double indent (bullet-i2)
+  //   "  -" (2 spaces)   => triple indent (bullet-i3)
+  //   "    -" (>=3 spaces) => quadruple indent (bullet-i4)
+  const lines = text.replace(/\r/g,"").split("\n").filter(l => l.trim() !== "");
+  const root = document.createElement("div");
+
+  const ul = document.createElement("ul");
+  ul.className = "flat-bullets";
+  root.appendChild(ul);
+
+  let lastLi = null;
+
+  for(const raw of lines){
+    const rawNoCr = raw.replace(/\r/g,"");
+    if(!rawNoCr.trim()) continue;
+
+    const bulletMatch = rawNoCr.match(/^(\s*)(?:•|-|\*)\s+(.*)$/);
+    if(bulletMatch){
+      const lead = bulletMatch[1] || "";
+      const content = (bulletMatch[2] || "").trim();
+      const li = document.createElement("li");
+      // Determine indent class
+      const spaces = lead.replace(/\t/g, "    ").length;
+      if(spaces === 2){
+        li.className = "bullet-i3";
+      }else if(spaces > 2){
+        li.className = "bullet-i4";
+      }else{
+        li.className = "bullet-i2";
+      }
+      li.textContent = content;
+      ul.appendChild(li);
+      lastLi = li;
+      continue;
+    }
+
+    // Continuation line: append to the last bullet if present; otherwise paragraph.
+    const cont = rawNoCr.trim();
+    if(lastLi){
+      lastLi.textContent = (lastLi.textContent + " " + cont).trim();
+    }else{
+      const p = document.createElement("p");
+      p.textContent = cont;
+      root.appendChild(p);
+    }
+  }
+
+  if(!ul.children.length) ul.remove();
+  return root;
+}
+
+  function renderChunk(chunk){
+    if(chunk.kind === "section"){
+      const d = document.createElement("div");
+      d.className = `section-strip ${sectionClass(chunk.text)}`;
+      d.textContent = chunk.text;
+      return d;
+    }
+
+    if(chunk.kind === "brace"){
+      const d = document.createElement("div");
+      d.className = "brace-section";
+      d.textContent = chunk.text;
+      return d;
+    }
+
+    const wrap = document.createElement("div");
+    wrap.className = "chunk";
+
+    // Indent sub-numbered points (e.g., 15.3 / 2.3.4.) exactly once.
+    if(chunk.kind === "text"){
+      const firstLine = (chunk.text || "").split(/\n/).find(l => l.trim() !== "") || "";
+      if(/^\d+(?:\.\d+)+\.?\s+\S/.test(firstLine.trim())){
+        wrap.classList.add("subnum");
+      }
+    }
+
+
+    if(chunk.kind === "stop"){
+      const d = document.createElement("div");
+      d.className = "stop-line";
+      d.textContent = chunk.text;
+      wrap.appendChild(d);
+      return wrap;
+    }
+
+    if(chunk.kind === "table"){
+      wrap.appendChild(renderTableBlock(chunk.text));
+      return wrap;
+    }
+
+    if(chunk.kind === "list"){
+      wrap.appendChild(renderListBlock(chunk.text));
+      return wrap;
+    }
+
+    const parts = chunk.text.split(/\n+/);
+    for(const part of parts){
+      const p = document.createElement("p");
+      p.textContent = part.trim();
+      wrap.appendChild(p);
+    }
+    return wrap;
+  }
+
+
+
+  const GAP_PX = 24;
+
+  function ensureBottomSpacer(){
+    let sp = document.getElementById("bottomSpacer");
+    if(!sp){
+      sp = document.createElement("div");
+      sp.id = "bottomSpacer";
+      sp.setAttribute("aria-hidden","true");
+      chunkBox.appendChild(sp);
+    }
+    return sp;
+  }
+
+  function adjustDockPadding(){
+    const gc = document.querySelector('.game-controls');
+    const wrap = gameView.querySelector('.wrap');
+    if(!gc || !wrap) return;
+    const h = gc.offsetHeight || 0;
+
+    // Constant gap so the fixed button dock never covers the last chunk.
+    wrap.style.paddingBottom = (h + GAP_PX) + 'px';
+
+    const sp = ensureBottomSpacer();
+    sp.style.height = (h + GAP_PX) + 'px';
+  }
+
+  function scrollToBottom(){
+    const doc = document.documentElement;
+    const target = Math.max(0, doc.scrollHeight - window.innerHeight);
+    // Deterministic: always scroll down to bottom; never up.
+    window.scrollTo(0, target);
+  }
+
+  function maybeAutoScroll(){
+    scrollToBottom();
+  }
+
+
+  async function loadCard(){
+  skipBtn.textContent = "Skip protocol";
+
+    if(idx >= deck.length){
+      finishGame();
+      return;
+    }
+    const p = deck[idx];
+    cardTitle.textContent = p.name;
+
+    // load text
+    chunkBox.textContent = "Loading…";
+    let raw = "";
+    try{
+      raw = await fetchProtocolText(p.n);
+    }catch(err){
+      chunkBox.textContent = `Could not load ${p.n}_p.txt\n\nMake sure the .txt file is in the same folder as this HTML file.`;
+progressText.textContent = `${idx+1} / ${deck.length}`;
+      nextBtn.textContent = "Done";
+      nextBtn.disabled = true;
+return;
+    }
+// quiz chunks
+    currentChunks = parseAllChunks(raw);
+    chunkIdx = 0;
+    chunkBox.innerHTML = `<div class="intro-hint">Click the 'Next line' button below to begin!</div>`;
+    ensureBottomSpacer();
+
+    progressText.textContent = `${idx+1} / ${deck.length}`;
+    // Next line progress (no "chunk" label)
+    const totalLines = Math.max(0, currentChunks.length - 1);
+    nextBtn.textContent = `Next line 0/${totalLines}`;
+    nextBtn.disabled = false;
+    adjustDockPadding();
+}
+
+  function nextCard(){
+    if(!currentChunks || currentChunks.length === 0) return;
+
+    // We intentionally skip the first chunk (index 0)
+    const firstRenderable = 1;
+    const lastIdx = currentChunks.length - 1;
+
+    if(firstRenderable > lastIdx){
+      // Nothing to show
+      nextBtn.textContent = "Done";
+      nextBtn.disabled = true;
+      skipBtn.textContent = "Next protocol";
+      progressText.textContent = `${idx+1} / ${deck.length}`;
+      return;
+    }
+
+    if(chunkIdx < lastIdx){
+      chunkIdx++;
+      if(chunkIdx === firstRenderable){
+        // first click clears the hint
+        chunkBox.innerHTML = "";
+    ensureBottomSpacer();
+        ensureBottomSpacer();
+      }
+
+      if(chunkIdx >= firstRenderable){
+        const el = renderChunk(currentChunks[chunkIdx]);
+        chunkBox.insertBefore(el, ensureBottomSpacer());
+        maybeAutoScroll();
+      }
+
+      const shown = Math.max(0, chunkIdx - firstRenderable + 1);
+      const total = (lastIdx - firstRenderable + 1);
+      progressText.textContent = `${idx+1} / ${deck.length}`;
+
+      nextBtn.textContent = `Next line ${shown}/${total}`;
+
+      if(chunkIdx >= lastIdx){
+        skipBtn.textContent = "Next protocol";
+    skipBtn.textContent = "Next protocol";
+    nextBtn.textContent = "Done";
+    nextBtn.disabled = true;
+  }else{
+        nextBtn.disabled = false;
+      }
+      return;
+    }
+
+    nextBtn.textContent = "Done";
+    nextBtn.disabled = true;
+  }
+
+  function finishGame(){
+    alert("Nice work! You finished all selected protocols ✅");
+    gameView.style.display = "none";
+    selectView.style.display = "block";
+    // keep selection from cookies
+    loadSelection();
+    buildList();
+    window.scrollTo({top:0, behavior:"smooth"});
+  }
+
+  function loadAllChunks(){
+    if(!currentChunks || currentChunks.length === 0) return;
+
+    // We intentionally skip the first chunk (index 0)
+    const firstRenderable = 1;
+    const lastIdx = currentChunks.length - 1;
+
+    chunkBox.innerHTML = "";
+    ensureBottomSpacer();
+
+    if(firstRenderable > lastIdx){
+      progressText.textContent = `${idx+1} / ${deck.length}`;
+      nextBtn.textContent = "Done";
+      nextBtn.disabled = true;
+      skipBtn.textContent = "Next protocol";
+      return;
+    }
+
+    // render all remaining chunks
+    for(let i = firstRenderable; i <= lastIdx; i++){
+      chunkIdx = i;
+      chunkBox.insertBefore(renderChunk(currentChunks[i]), ensureBottomSpacer());
+    }
+
+    maybeAutoScroll();
+
+    const total = (lastIdx - firstRenderable + 1);
+    progressText.textContent = `${idx+1} / ${deck.length}`;
+    nextBtn.textContent = "Done";
+    nextBtn.disabled = true;
+    skipBtn.textContent = "Next protocol";
+  }
+
+  function skipProtocol(){
+    idx++;
+    if(idx >= deck.length){
+      finishGame();
+      return;
+    }
+    adjustDockPadding();
+    loadCard();
+  }
+
+startBtn.addEventListener("click", startGame);
+  nextBtn.addEventListener("click", nextCard);
+  // Prevent mobile double-tap zoom on the Next line button
+  nextBtn.addEventListener("dblclick", (e) => { e.preventDefault(); });
+  loadAllBtn.addEventListener("click", loadAllChunks);
+skipBtn.addEventListener("click", skipProtocol);
+backBtn.addEventListener("click", () => {
+    gameView.style.display = "none";
+    selectView.style.display = "block";
+    // unload PDF on exit
+    
+    loadSelection();
+    buildList();
+    window.scrollTo({top:0, behavior:"smooth"});
+  });
+
+  window.addEventListener("resize", ()=>{ requestAnimationFrame(adjustDockPadding); });
+
+  // ---------- INIT ----------
+  loadSelection();
+  buildList();
+})();</script>
+</body>
+</html>
