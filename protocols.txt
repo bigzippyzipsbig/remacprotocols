@@ -1414,7 +1414,7 @@ CRITERIA
   - Adult
   - Altered mental status
   - Respiratory rate < 10 breaths/min
-  - SpO < 90% without supplemental oxygen 2
+  - SpO2 < 90% without supplemental oxygen
   - No immediate reversible cause of symptoms (e.g. opiate overdose responding to Naloxone)
 - Adult patients who do not meet the above criteria MUST have prior approval of medications through OLMC
 - Pediatric patients requiring procedural sedation or sedation for advanced airway management MUST have prior approval of medications through OLMC
@@ -1431,20 +1431,22 @@ Paramedic
 4. Begin cardiac monitoring
 5. Monitor vital signs every 2-3 minutes
 
-Procedural Sedation
+{} Procedural Sedation
 6. For an ADULT patient requiring procedural sedation (e.g. synchronized cardioversion, transcutaneous pacing), administer one of the following:
   - OPTION A: Etomidate 0.15 mg/kg IV (maximum 20 mg)
   - OPTION B: Ketamine 1 mg/kg IV (maximum 100 mg)
   - OPTION C: Midazolam 0.1 mg/kg IV (maximum 5 mg)
   - OPTION D: Diazepam 0.1 mg/kg IV (maximum 10 mg)
-  - OPTION E: Lorazepam 0.02 mg/kg IV (maximum 4 mg) Sedation for Placement of an Advanced Airway
+  - OPTION E: Lorazepam 0.02 mg/kg IV (maximum 4 mg) 
+{} Sedation for Placement of an Advanced Airway
 7. For induction to perform advanced airway management of an ADULT patient with ALL OF THE FOLLOWING CRITERIA:
   - Altered mental status
   - Respiratory rate < 10 breaths/min
   - SpO2 < 90% without supplemental oxygen 
   - No immediate reversible cause of symptoms (e.g. opiate overdose responding to Naloxone) Administer one of the following:
     - OPTION A: Etomidate 0.3 mg/kg IV (maximum 40 mg)
-    - OPTION B: Ketamine 2 mg/kg IV (maximum 200 mg) Sedation for ADULT Patients with an Advanced Airway in Place
+    - OPTION B: Ketamine 2 mg/kg IV (maximum 200 mg) 
+{} Sedation for ADULT Patients with an Advanced Airway in Place
 8. For sedation of an ADULT patient with an advanced airway in place, administer one of the following:
     - OPTION A: Fentanyl 1 mcg/kg IV (maximum 100 mcg). Administration of a sedative (OPTION B-OPTION E) may be considered for additional sedation
     - OPTION B: Ketamine 1 mg/kg IV (maximum 100 mg)
